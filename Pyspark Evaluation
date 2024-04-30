@@ -1,0 +1,17 @@
+Create a pyspark program to perform following data processing; 
+
+Stage 1:
+========
+1. Use 1970movies.json file - assume file to be available in DBFS or S3 for the program.
+2. Flatten the JSON file above and create a Dataframe.
+3. Write above Dataframe to Delta Lake partitioned by year.
+4. Add an adhoc paragraph to restore 7 days back point in time data from Delta Lake.
+
+Stage 2:
+========
+From the final data in delta lake;
+
+1. Create Movie dimension in Delta lake with movieId.
+2. Update delta table created in Stage 1 with movieId corresponding to title.
+
+Solution: Please refer to pyspark_evaluation_1970movie.ipynb notebook

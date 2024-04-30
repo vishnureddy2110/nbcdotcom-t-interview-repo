@@ -1,0 +1,731 @@
+Order_Month,Order_ID,Product_Name,Order_Priority,Order_Quantity,Sales,Ship_Mode,Profit,Customer_Name,Region,Customer_Segment,Product_Container
+1-Jan,27778,GBC DocuBind TL200 Manual Binding Machine,Critical,1,232.67,Regular Air,-105.14,Roy Skaria,Northwest Territories,Corporate,Small Box
+1-Jan,19686,Canon P1-DHIII Palm Printing Calculator,Medium,2,42.31,Regular Air,-53.08,Alan Barnes,Northwest Territories,Corporate,Medium Box
+1-Jan,31364,Deluxe Rollaway Locking File with Drawer,Not Specified,2,789.01,Regular Air,-539.59,Beth Thompson,Northwest Territories,Corporate,Small Box
+1-Jan,36803,Eldon® Wave Desk Accessories,Not Specified,2,19.02,Express Air,10.73,Ralph Kennedy,West,Corporate,Small Box
+1-Jan,26016,Micro Innovations Media Access Pro Keyboard,High,2,154.94,Regular Air,-358.43,Ken Lonsdale,Prarie,Consumer,Small Box
+1-Jan,28420,Park Ridge™ Embossed Executive Business Envelopes,Low,2,45.64,Express Air,-0.11,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,16230,Self-Adhesive Address Labels for Typewriters by Universal,Low,2,13.3,Regular Air,-7.86,Sonia Sunley,West,Corporate,Small Box
+1-Jan,12199,Wilson Jones® Four-Pocket Poly Binders,Low,2,19,Regular Air,-10.73,Justin Knight,West,Corporate,Small Box
+1-Jan,1445,GBC DocuBind 200 Manual Binding Machine,Medium,3,1326.09,Regular Air,-20.55,Shahid Shariari,West,Corporate,Small Box
+1-Jan,1218,Holmes Odor Grabber,Not Specified,3,46.46,Regular Air,-25.13,Craig Carroll,Ontario,Corporate,Medium Box
+1-Jan,8992,Hon Olson Stacker Stools,High,3,441.43,Regular Air,-154.45,Shahid Shariari,West,Corporate,Large Box
+1-Jan,19617,V 3600 Series,Low,3,171.9635,Regular Air,-296.37,Jack Lebron,Atlantic,Corporate,Small Box
+1-Jan,4676,Xerox 1881,High,3,49.59,Express Air,-8.38,Annie Cyprus,Nunavut,Home Office,Small Box
+1-Jan,38240,Avery Printable Repositionable Plastic Tabs,High,4,41.53,Regular Air,-15.53,Ken Lonsdale,Ontario,Consumer,Small Box
+1-Jan,16165,Fellowes 17-key keypad for PS/2 interface,Not Specified,4,136.68,Express Air,-125.16,Hallie Redmond,Prarie,Small Business,Small Box
+1-Jan,38310,Hoover® Commercial Lightweight Upright Vacuum,High,4,62.45,Regular Air,-141.76,Jack Lebron,Atlantic,Corporate,Large Box
+1-Jan,32193,HP Office Paper (20Lb. and 87 Bright),Low,4,40.72,Express Air,-10.25,Chad Cunningham,Northwest Territories,Small Business,Small Box
+1-Jan,31393,Luxo Economy Swing Arm Lamp,Critical,4,97.57,Regular Air,-27.31,Cindy Schnelling,Northwest Territories,Corporate,Large Box
+1-Jan,24450,Xerox 1903,Critical,4,30.85,Regular Air,-12.88,Kristina Nunn,West,Consumer,Small Box
+1-Jan,51938,8290,Low,5,503.3275,Regular Air,-488.31,Jim Radford,Northwest Territories,Corporate,Small Box
+1-Jan,4132,Avery 49,Not Specified,5,14.76,Regular Air,1.32,Aaron Bergman,Nunavut,Corporate,Small Box
+1-Jan,34631,Cardinal Poly Pocket Divider Pockets for Ring Binders,Not Specified,5,22.06,Regular Air,-22.28,Brendan Dodson,Northwest Territories,Corporate,Small Box
+1-Jan,47846,Dana Swing-Arm Lamps,High,5,66.43,Regular Air,-9.45,Hilary Holden,Atlantic,Corporate,Large Box
+1-Jan,25830,Eureka Disposable Bags for Sanitaire® Vibra Groomer I® Upright Vac,Low,5,25.34,Regular Air,-21.29,Justin Hirsh,West,Consumer,Small Box
+1-Jan,58368,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,High,5,325.43,Express Air,-76.11,Doug Bickford,Atlantic,Corporate,Small Box
+1-Jan,53152,Fellowes EZ Multi-Media Keyboard,Medium,5,185.79,Regular Air,-159.68,Bill Eplett,Ontario,Corporate,Small Box
+1-Jan,8007,StarTAC 8000,Low,5,820.5645,Regular Air,-800.25,Maya Herman,Atlantic,Corporate,Small Box
+1-Jan,29185,Xerox 1893,High,5,217.85,Express Air,-25.31,Rob Dowd,West,Corporate,Small Box
+1-Jan,12773,Acco Suede Grain Vinyl Round Ring Binder,Low,6,17,Regular Air,-4.61,Greg Guthrie,Atlantic,Corporate,Small Box
+1-Jan,57671,Avery 510,Not Specified,6,22.78,Regular Air,3.96,Liz Price,Atlantic,Consumer,Small Box
+1-Jan,47367,Avery 52,Medium,6,21.07,Regular Air,2.28,Rob Haberlin,West,Corporate,Small Box
+1-Jan,36134,R280,Low,6,826.9735,Regular Air,-413.33,Grant Carroll,Northwest Territories,Corporate,Small Box
+1-Jan,36449,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Not Specified,6,90.75,Regular Air,-26.39,Bruce Stewart,Ontario,Corporate,Large Box
+1-Jan,23907,6190,Not Specified,7,384.2,Regular Air,-164.46,Julie Creighton,West,Corporate,Small Box
+1-Jan,59202,Avery 485,Medium,7,83.81,Regular Air,21.92,Andrew Gjertsen,Atlantic,Consumer,Small Box
+1-Jan,5894,Avery Arch Ring Binders,High,7,384.33,Regular Air,87.68,Ann Chong,Nunavut,Corporate,Small Box
+1-Jan,59584,Canon MP41DH Printing Calculator,Medium,7,1120.27,Regular Air,16.81,Joy Smith,West,Consumer,Medium Box
+1-Jan,47367,Durable Pressboard Binders,Medium,7,27.99,Regular Air,-0.17,Rob Haberlin,West,Corporate,Small Box
+1-Jan,38758,Euro Pro Shark Stick Mini Vacuum,Not Specified,7,497.2,Regular Air,-219.61,Justin Hirsh,West,Consumer,Large Box
+1-Jan,36805,Hand-Finished Solid Wood Document Frame,Medium,7,263.8,Regular Air,165.33,Shahid Shariari,West,Corporate,Small Box
+1-Jan,28836,Ibico EB-19 Dual Function Manual Binding System,High,7,1158.26,Regular Air,170.08,Erica Bern,Atlantic,Corporate,Small Box
+1-Jan,10692,A1228,Low,8,1313.811,Regular Air,-457.16,Rob Haberlin,West,Corporate,Small Box
+1-Jan,41895,Canon imageCLASS 2200 Advanced Copier,Critical,8,27663.92,Regular Air,-391.92,Tony Chapman,West,Consumer,Large Box
+1-Jan,16193,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Not Specified,8,300.2,Regular Air,6.41,Frank Price,Northwest Territories,Corporate,Small Box
+1-Jan,33444,Pizazz® Global Quick File™,Medium,8,127.8,Regular Air,-30.48,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Jan,30149,Round Ring Binders,Medium,8,16.47,Regular Air,-6.82,Mark Cousins,West,Corporate,Small Box
+1-Jan,30016,T18,Critical,8,754.6555,Regular Air,-212.55,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,35364,T28 WORLD,Critical,8,1265.293,Regular Air,-554.44,Lisa DeCherney,West,Corporate,Small Box
+1-Jan,11362,Canon PC1060 Personal Laser Copier,Low,9,6420.87,Regular Air,-690.21,Hilary Holden,Atlantic,Corporate,Large Box
+1-Jan,28225,"Career Cubicle Clock, 8 1/4"", Black",Critical,9,206.04,Regular Air,-49.81,Khloe Miller,West,Corporate,Small Box
+1-Jan,14852,GBC DocuBind 200 Manual Binding Machine,Medium,9,3800.4,Express Air,1234.57,Angele Hood,West,Consumer,Small Box
+1-Jan,57153,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",Critical,9,106.05,Regular Air,-14.52,Meg O'Connel,Ontario,Corporate,Medium Box
+1-Jan,28995,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",High,9,298.52,Regular Air,73.19,Hilary Holden,Atlantic,Corporate,Small Box
+1-Jan,15618,Xerox 1928,Medium,9,50.93,Regular Air,-34.98,Joy Smith,Atlantic,Consumer,Small Box
+1-Jan,50404,"Lesro Round Back Collection Coffee Table, End Table",High,10,1961.68,Regular Air,-367,Guy Armstrong,Prarie,Corporate,Large Box
+1-Jan,38917,6120,Low,11,618.1965,Regular Air,-132.53,Joseph Airdo,Ontario,Consumer,Small Box
+1-Jan,26499,Avery 507,Medium,11,32.4,Regular Air,8.78,Sylvia Foulston,Northwest Territories,Corporate,Small Box
+1-Jan,25830,Recycled Premium Regency Composition Covers,Low,11,178.57,Regular Air,-37.39,Justin Hirsh,West,Consumer,Small Box
+1-Jan,56640,Xerox 1923,High,11,80.26,Regular Air,-22.55,Anthony O'Donnell,West,Corporate,Small Box
+1-Jan,25376,"Eldon® 200 Class™ Desk Accessories, Burgundy",Critical,12,76.61,Regular Air,-31.83,Greg Guthrie,Atlantic,Corporate,Small Box
+1-Jan,38625,Wausau Papers Astrobrights® Colored Envelopes,Not Specified,12,72.82,Regular Air,5.03,Chad Sievert,West,Corporate,Small Box
+1-Jan,38656,Avery 478,Low,13,64.46,Regular Air,25.16,John Castell,West,Consumer,Small Box
+1-Jan,32901,Avery 496,Critical,13,49.74,Regular Air,17.7,Neil Knudson,West,Corporate,Small Box
+1-Jan,57127,Xerox 194,Low,13,735.54,Regular Air,171.82,Ralph Knight,Northwest Territories,Consumer,Small Box
+1-Jan,8992,688,High,14,2145.6975,Regular Air,-176.79,Shahid Shariari,West,Corporate,Small Box
+1-Jan,9792,3M Organizer Strips,Low,14,84.09,Regular Air,-73.14,Sally Knutson,West,Consumer,Small Box
+1-Jan,27396,DAX Solid Wood Frames,Critical,14,138.31,Regular Air,-31.16,Sean Wendt,West,Corporate,Medium Box
+1-Jan,55363,"Dual Level, Single-Width Filing Carts",High,14,2232.06,Regular Air,542.16,Ralph Arnett,Northwest Territories,Consumer,Small Box
+1-Jan,52071,GBC Standard Plastic Binding Systems Combs,Not Specified,14,136.85,Regular Air,-4.43,Annie Thurman,Ontario,Consumer,Small Box
+1-Jan,31618,Lock-Up Easel 'Spel-Binder',Critical,14,403.17,Regular Air,147.45,Roy Skaria,Northwest Territories,Corporate,Small Box
+1-Jan,14503,Surelock™ Post Binders,Not Specified,14,438.47,Express Air,157.89,Bruce Stewart,Prarie,Corporate,Small Box
+1-Jan,24038,8860,High,15,896.1805,Express Air,82.04,Jack Lebron,Atlantic,Corporate,Small Box
+1-Jan,2147,Belkin 8 Outlet Surge Protector,Not Specified,15,605.1,Express Air,92.81,Hallie Redmond,Prarie,Home Office,Small Box
+1-Jan,7364,Brown Kraft Recycled Envelopes,High,15,260.39,Regular Air,-48.57,Mary Zewe,Prarie,Corporate,Small Box
+1-Jan,35584,Filing/Storage Totes and Swivel Casters,Medium,15,150.33,Express Air,-98.23,Joel Jenkins,Ontario,Corporate,Small Box
+1-Jan,1344,g520,Low,15,834.904,Regular Air,-11.68,Jim Radford,Nunavut,Corporate,Small Box
+1-Jan,5698,Kensington 6 Outlet Guardian Standard Surge Protector,Medium,15,297.05,Regular Air,-16.89,Kristina Nunn,West,Consumer,Small Box
+1-Jan,32835,KF 788,Medium,15,572.4325,Regular Air,-19.44,Joy Smith,Atlantic,Corporate,Small Box
+1-Jan,49088,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Critical,15,4012.58,Express Air,-425.14,Kristina Nunn,Atlantic,Consumer,Large Box
+1-Jan,16230,Xerox 1891,Low,15,687.52,Regular Air,223.76,Sonia Sunley,West,Corporate,Small Box
+1-Jan,30016,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Critical,15,85.56,Regular Air,-41.58,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,39301,Adesso Programmable 142-Key Keyboard,Medium,16,2232.66,Express Air,-521.09,Kelly Williams,West,Corporate,Small Box
+1-Jan,11969,"Carina Mini System Audio Rack, Model AR050B",Not Specified,16,1684.96,Regular Air,-553.06,Ivan Liston,Atlantic,Consumer,Large Box
+1-Jan,19073,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Not Specified,16,178.4,Regular Air,20.08,Chuck Magee,Atlantic,Corporate,Small Box
+1-Jan,4864,GBC ProClick™ 150 Presentation Binding System,Low,16,4901.99,Regular Air,1724.68,Ralph Kennedy,West,Corporate,Small Box
+1-Jan,35364,Xerox 199,Critical,16,72.08,Regular Air,-54.75,Lisa DeCherney,West,Corporate,Small Box
+1-Jan,51073,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Not Specified,17,2475.08,Express Air,958.8,Luke Weiss,West,Corporate,Large Box
+1-Jan,27174,Accessory27,Critical,17,477.5045,Regular Air,-245.56,Alex Avila,West,Corporate,Small Box
+1-Jan,30947,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Low,17,691.59,Regular Air,261.24,Charles McCrossin,Northwest Territories,Corporate,Small Box
+1-Jan,22980,Eldon Simplefile® Box Office®,Not Specified,17,224.09,Regular Air,-27.92,Rob Haberlin,West,Consumer,Medium Box
+1-Jan,9155,GBC Linen Binding Covers,Critical,17,518.8,Regular Air,54.63,Ken Lonsdale,Prarie,Consumer,Small Box
+1-Jan,43267,Honeywell Enviracaire® Portable Air Cleaner for up to 8 x 10 Room,Critical,17,1368.14,Express Air,171.26,Fred Wasserman,Northwest Territories,Home Office,Large Box
+1-Jan,52487,Staples #10 Colored Envelopes,Critical,17,124.06,Regular Air,15.74,Nathan Mautz,Prarie,Corporate,Small Box
+1-Jan,21378,U.S. Robotics 56K Internet Call Modem,Medium,17,1616.64,Regular Air,26.94,Jack Lebron,Atlantic,Corporate,Small Box
+1-Jan,50404,"24 Capacity Maxi Data Binder Racks, Pearl",High,18,3780.43,Regular Air,905.57,Guy Armstrong,Prarie,Corporate,Small Box
+1-Jan,6980,"Angle-D Binders with Locking Rings, Label Holders",Not Specified,18,136.29,Regular Air,-77.28,Ralph Knight,Nunavut,Consumer,Small Box
+1-Jan,4007,"Conquest™ 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",High,18,1038.4,Regular Air,112.36,Jack Lebron,Atlantic,Corporate,Small Box
+1-Jan,1344,LX 788,Low,18,2480.9205,Regular Air,313.58,Jim Radford,Nunavut,Corporate,Small Box
+1-Jan,32611,Nu-Form 106-Key Ergonomic Keyboard w/ Touchpad,Medium,18,986.24,Express Air,68.9,Neil Knudson,West,Corporate,Small Box
+1-Jan,40800,Staples Standard Envelopes,Not Specified,18,101.34,Regular Air,26.11,Jim Sink,Atlantic,Corporate,Small Box
+1-Jan,6182,Xerox 213,Low,18,130.32,Express Air,-67.28,Grant Carroll,Nunavut,Corporate,Small Box
+1-Jan,45570,Avery Poly Binder Pockets,Critical,19,77.57,Regular Air,-67.49,Bart Watters,Prarie,Corporate,Small Box
+1-Jan,16165,Fellowes Staxonsteel® Drawer Files,Not Specified,19,3555.29,Express Air,183.28,Hallie Redmond,Prarie,Small Business,Small Box
+1-Jan,29927,GBC Binding covers,High,19,257.97,Regular Air,33.18,Bruce Stewart,Ontario,Corporate,Small Box
+1-Jan,32743,Kensington 7 Outlet MasterPiece Power Center,Critical,19,3548.67,Regular Air,1280.19,Grant Carroll,Northwest Territories,Corporate,Small Box
+1-Jan,24067,Xerox 1920,High,19,120.56,Regular Air,-79.35,Frank Atkinson,Atlantic,Corporate,Small Box
+1-Jan,16423,Xerox 20,Medium,19,128.21,Regular Air,-55.13,Bryan Davis,Northwest Territories,Corporate,Small Box
+1-Jan,10306,DAX Clear Channel Poster Frame,Low,20,310.31,Regular Air,51.5,Lela Donovan,West,Corporate,Small Box
+1-Jan,14275,Economy Binders,Low,20,42.22,Regular Air,-7.73,Gene Hale,West,Consumer,Small Box
+1-Jan,56610,"Fellowes Mobile Numeric Keypad, Graphite",Medium,20,857.95,Express Air,51.85,Justin Hirsh,Atlantic,Consumer,Small Box
+1-Jan,322,I888 World Phone,Critical,20,2634.8555,Regular Air,257.76,Giulietta Weimer,West,Corporate,Small Box
+1-Jan,25031,Staples Copy Paper (20Lb. and 84 Bright),High,20,100.11,Regular Air,-41.7,Sally Knutson,West,Consumer,Small Box
+1-Jan,928,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Low,21,1222.68,Express Air,300.97,Anthony O'Donnell,West,Consumer,Small Box
+1-Jan,30243,Canon PC-428 Personal Copier,Critical,21,4242.76,Regular Air,340.88,Hilary Holden,Atlantic,Corporate,Large Box
+1-Jan,21889,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Low,21,1049.79,Regular Air,135.79,Becky Castell,Northwest Territories,Consumer,Small Box
+1-Jan,19078,Staples 6 Outlet Surge,Critical,21,256.12,Regular Air,-18.19,Brendan Dodson,Northwest Territories,Corporate,Small Box
+1-Jan,30310,StarTAC 6500,Medium,21,2024.0285,Regular Air,4.9,Thomas Brumley,West,Consumer,Small Box
+1-Jan,50310,"Fellowes Basic 104-Key Keyboard, Platinum",Medium,22,482.37,Regular Air,34.03,Sarah Foster,West,Corporate,Small Box
+1-Jan,29985,Staples Plastic Wall Frames,Critical,22,196.75,Express Air,0.13,Khloe Miller,West,Corporate,Small Box
+1-Jan,20676,Staples® General Use 3-Ring Binders,Low,22,43.97,Regular Air,-9.05,Shahid Shariari,West,Corporate,Small Box
+1-Jan,15872,"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",Not Specified,23,188.53,Regular Air,-27.49,Helen Andreada,Prarie,Corporate,Small Box
+1-Jan,28068,Belkin MediaBoard 104- Keyboard,Low,23,631.99,Regular Air,-43.96,Julie Creighton,West,Corporate,Small Box
+1-Jan,20448,Colored Envelopes,Critical,23,104.82,Express Air,6.84,Luke Weiss,West,Corporate,Small Box
+1-Jan,59878,Crate-A-Files™,High,23,249.64,Regular Air,-91.65,Ivan Gibson,Ontario,Corporate,Small Box
+1-Jan,28130,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Low,23,404.24,Express Air,-76.99,Guy Thornton,Ontario,Corporate,Small Box
+1-Jan,22469,Hon 5100 Series Wood Tables,High,23,6693.28,Regular Air,40.32,Jack Lebron,Atlantic,Corporate,Large Box
+1-Jan,33763,Sharp AL-1530CS Digital Copier,Not Specified,23,10791.38,Regular Air,-234.79,Evan Minnotte,Atlantic,Corporate,Large Box
+1-Jan,54115,"Eureka Sanitaire ® Multi-Pro Heavy-Duty Upright, Disposable Bags",Low,24,114.17,Regular Air,-80.05,Brian Moss,Prarie,Corporate,Small Box
+1-Jan,47267,Southworth 25% Cotton Premium Laser Paper and Envelopes,Medium,24,492.71,Regular Air,67.01,Theone Pippenger,Prarie,Corporate,Small Box
+1-Jan,41543,StarTAC 7760,Low,24,1318.8685,Regular Air,172.33,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,1059,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",Critical,24,990.1,Regular Air,310.22,Sean O'Donnell,Ontario,Corporate,Small Box
+1-Jan,41570,Xerox 1941,Not Specified,24,2289.92,Regular Air,1037.55,Harold Engle,Atlantic,Consumer,Small Box
+1-Jan,37281,1726 Digital Answering Machine,Medium,25,453.2455,Regular Air,3.31,Roy Skaria,West,Corporate,Medium Box
+1-Jan,8551,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Critical,25,185.64,Regular Air,-69.87,Meg O'Connel,Prarie,Corporate,Small Box
+1-Jan,33703,Acco Perma® 2700 Stacking Storage Drawers,Not Specified,25,802.19,Regular Air,56.26,Carl Ludwig,Northwest Territories,Corporate,Small Box
+1-Jan,10535,"Linden® 12"" Wall Clock With Oak Frame",Low,25,854.88,Regular Air,-44.14,Doug Bickford,Northwest Territories,Corporate,Small Box
+1-Jan,43109,Microsoft Internet Keyboard,Critical,25,509.52,Regular Air,-145.78,Dorothy Wardle,Northwest Territories,Corporate,Small Box
+1-Jan,6115,"Seth Thomas 13 1/2"" Wall Clock",Medium,25,409.08,Regular Air,78.86,Matt Collins,West,Consumer,Small Box
+1-Jan,51333,Southworth 25% Cotton Linen-Finish Paper & Envelopes,Not Specified,25,237.36,Regular Air,-117.86,Theone Pippenger,Prarie,Corporate,Small Box
+1-Jan,35649,Xerox 1994,Medium,25,174.03,Regular Air,-42.37,Justin Hirsh,West,Consumer,Small Box
+1-Jan,59047,Eldon Image Series Black Desk Accessories,Not Specified,26,113.85,Regular Air,-93.93,Beth Thompson,Atlantic,Corporate,Small Box
+1-Jan,26531,i470,Medium,26,4688.9485,Regular Air,1215.44,Michelle Lonsdale,Northwest Territories,Corporate,Small Box
+1-Jan,25634,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",Not Specified,26,626.07,Express Air,185.32,Mike Pelletier,Northwest Territories,Corporate,Small Box
+1-Jan,13158,Wilson Jones DublLock® D-Ring Binders,Critical,26,187.16,Regular Air,29.33,Kelly Williams,West,Corporate,Small Box
+1-Jan,47108,Xerox 1896,Not Specified,26,258.11,Express Air,9.95,Justin Hirsh,Atlantic,Consumer,Small Box
+1-Jan,13927,Xerox 1985,Low,26,188.05,Express Air,-21.41,Dan Reichenbach,Atlantic,Corporate,Small Box
+1-Jan,40962,Belkin 5 Outlet SurgeMaster™ Power Centers,Critical,28,1553.66,Regular Air,547.48,Mary Zewe,Ontario,Corporate,Small Box
+1-Jan,11392,Presstex Flexible Ring Binders,Low,28,128.69,Regular Air,28.29,Sarah Bern,West,Corporate,Small Box
+1-Jan,31684,"Tenex File Box, Personal Filing Tote with Lid, Black",Critical,28,456.91,Express Air,-328.18,Susan Vittorini,Northwest Territories,Corporate,Small Box
+1-Jan,55715,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Critical,28,168.57,Express Air,16.65,Eugene Barchas,Northwest Territories,Corporate,Small Box
+1-Jan,25347,Xerox 1906,Low,28,967.27,Regular Air,309.31,Theone Pippenger,Atlantic,Corporate,Small Box
+1-Jan,53894,5125,Critical,29,5159.3725,Express Air,1252.48,Cathy Armstrong,Atlantic,Consumer,Small Box
+1-Jan,40965,Xerox 1979,Medium,29,843.55,Regular Air,168.76,Mark Cousins,West,Corporate,Small Box
+1-Jan,26759,XtraLife® ClearVue™ Slant-D® Ring Binders by Cardinal,Not Specified,30,251.11,Regular Air,10.04,Bobby Odegard,Ontario,Consumer,Small Box
+1-Jan,37888,Avery Legal 4-Ring Binder,Critical,31,639.19,Regular Air,274.9,Hilary Holden,Atlantic,Corporate,Small Box
+1-Jan,28289,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),High,31,166.76,Regular Air,-46.03,Carl Ludwig,Northwest Territories,Corporate,Small Box
+1-Jan,21383,Polycom ViaVideo™ Desktop Video Communications Unit,Low,31,16066.85,Regular Air,7416.43,Rick Reed,Northwest Territories,Consumer,Large Box
+1-Jan,42209,SAFCO Arco Folding Chair,High,31,8901.78,Regular Air,2795.36,Alan Barnes,Northwest Territories,Corporate,Large Box
+1-Jan,29121,Timeport L7089,Medium,31,3206.965,Regular Air,575.33,Jack Lebron,Atlantic,Corporate,Small Box
+1-Jan,49088,Xerox 1893,Critical,31,1295.54,Regular Air,214.23,Kristina Nunn,Atlantic,Consumer,Small Box
+1-Jan,8801,Eldon Cleatmat Plus™ Chair Mats for High Pile Carpets,Low,32,2593.08,Express Air,-673.31,Thomas Brumley,West,Consumer,Medium Box
+1-Jan,1600,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Medium,32,303.59,Regular Air,-45.99,Liz MacKendrick,Ontario,Corporate,Small Box
+1-Jan,21091,GBC Instant Index™ System for Binding Systems,High,32,270.73,Express Air,-54.57,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,46885,"Howard Miller 16"" Diameter Gallery Wall Clock",Low,32,1997.13,Regular Air,720.45,Mike Kennedy,Prarie,Corporate,Small Box
+1-Jan,45248,T28 WORLD,Medium,32,4941.7725,Regular Air,704.89,Mark Cousins,Prarie,Corporate,Small Box
+1-Jan,29382,12-1/2 Diameter Round Wall Clock,High,34,684.66,Express Air,35.09,Greg Guthrie,Atlantic,Small Business,Small Box
+1-Jan,43424,Belkin F5C206VTEL 6 Outlet Surge,Not Specified,34,772.56,Express Air,143.87,Maria Bertelson,Ontario,Home Office,Small Box
+1-Jan,12389,Logitech Cordless Navigator Duo,Medium,34,2560.59,Regular Air,670.96,Michael Granlund,Atlantic,Corporate,Small Box
+1-Jan,8551,Xerox 213,Critical,34,225.98,Regular Air,-135.74,Meg O'Connel,Prarie,Corporate,Small Box
+1-Jan,35300,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Medium,35,1445.6,Regular Air,126.03,Dan Reichenbach,Atlantic,Corporate,Medium Box
+1-Jan,15878,"Array® Parchment Paper, Assorted Colors",High,36,275.06,Regular Air,-237.87,Mike Kennedy,Atlantic,Corporate,Small Box
+1-Jan,52130,Eldon Executive Woodline II Cherry Finish Desk Accessories,Low,36,1436.55,Regular Air,-4.01,Carlos Soltero,Prarie,Consumer,Small Box
+1-Jan,22657,Hayes Optima 56K V.90 Internal Voice Modem,High,36,9544.18,Express Air,3392.88,Ralph Kennedy,West,Corporate,Small Box
+1-Jan,25315,Holmes Harmony HEPA Air Purifier for 17 x 20 Room,Low,36,7783.36,Express Air,3506.24,Joy Smith,Atlantic,Consumer,Medium Box
+1-Jan,56708,"Peel & Seel® Recycled Catalog Envelopes, Brown",Not Specified,36,407.17,Regular Air,-12.82,Art Ferguson,Prarie,Corporate,Small Box
+1-Jan,24070,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",High,36,170.42,Regular Air,-98.31,Sonia Sunley,West,Corporate,Small Box
+1-Jan,50338,Sharp EL500L Fraction Calculator,Not Specified,36,551.44,Regular Air,28.7,Liz Price,Atlantic,Corporate,Medium Box
+1-Jan,28802,Southworth 25% Cotton Antique Laid Paper & Envelopes,High,36,336.25,Express Air,25.95,Sanjit Chand,West,Home Office,Small Box
+1-Jan,53825,Xerox 1885,Low,36,1646.05,Regular Air,649.8,Joy Smith,West,Consumer,Small Box
+1-Jan,47750,Avery 492,Low,37,102.46,Regular Air,36.64,Sally Knutson,West,Corporate,Small Box
+1-Jan,28135,Bionaire Personal Warm Mist Humidifier/Vaporizer,Critical,37,1601.24,Regular Air,520.69,Jeremy Lonsdale,Northwest Territories,Corporate,Medium Box
+1-Jan,14406,Canon MP41DH Printing Calculator,Medium,37,5610.84,Regular Air,2366.51,Charles Sheldon,Atlantic,Corporate,Medium Box
+1-Jan,17926,Eldon Jumbo ProFile™ Portable File Boxes Graphite/Black,Critical,37,608.33,Regular Air,-70.04,Sally Knutson,West,Consumer,Small Box
+1-Jan,26691,GBC VeloBinder Strips,Not Specified,37,270.43,Regular Air,-83.16,Liz Thompson,Ontario,Corporate,Small Box
+1-Jan,5153,SAFCO Folding Chair Trolley,Critical,37,4896.93,Express Air,1467.82,Helen Abelman,Atlantic,Home Office,Medium Box
+1-Jan,45248,"Hoover Replacement Belts For Soft Guard™ & Commercial Ltweight Upright Vacs, 2/Pk",Medium,38,154.85,Regular Air,-136.55,Mark Cousins,Prarie,Corporate,Small Box
+1-Jan,13604,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Not Specified,38,3152.75,Regular Air,1166.4,Erica Bern,Atlantic,Corporate,Small Box
+1-Jan,54501,Tennsco Commercial Shelving,Critical,38,783.96,Regular Air,-1195.29,Guy Armstrong,Prarie,Corporate,Large Box
+1-Jan,19617,TI 36X Solar Scientific Calculator,Low,38,952.47,Regular Air,270.69,Jack Lebron,Atlantic,Corporate,Medium Box
+1-Jan,12452,Xerox 1934,Medium,38,2063.42,Regular Air,989.95,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,58725,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Not Specified,39,335.35,Regular Air,-134.97,Joel Jenkins,Prarie,Corporate,Small Box
+1-Jan,57509,Avery 493,Low,39,199.39,Express Air,101.13,Neola Schneider,Northwest Territories,Home Office,Small Box
+1-Jan,1699,#10 Self-Seal White Envelopes,Critical,40,430.88,Regular Air,39,Art Ferguson,Atlantic,Corporate,Small Box
+1-Jan,45217,2160i,Not Specified,40,6789.9275,Regular Air,1864.66,Ralph Knight,Northwest Territories,Consumer,Small Box
+1-Jan,16230,Fellowes Recycled Storage Drawers,Low,40,4538.66,Regular Air,506.86,Sonia Sunley,West,Corporate,Small Box
+1-Jan,5863,"Seth Thomas 12"" Clock w/ Goldtone Case",Medium,40,933.21,Regular Air,207.18,Guy Thornton,Prarie,Corporate,Small Box
+1-Jan,29986,Vinyl Sectional Post Binders,Critical,40,1477.39,Regular Air,641.4,Rob Dowd,West,Corporate,Small Box
+1-Jan,52326,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",Low,41,152.28,Regular Air,-154.81,Dennis Bolton,West,Consumer,Small Box
+1-Jan,24386,Gyration Ultra Cordless Optical Suite,High,41,4256.51,Regular Air,1653.96,Bruce Stewart,Prarie,Corporate,Small Box
+1-Jan,15808,"Avery Flip-Chart Easel Binder, Black",Critical,42,906.64,Express Air,-148.93,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,24965,"Deflect-o SuperTray™ Unbreakable Stackable Tray, Letter, Black",Low,42,1146.11,Regular Air,330.63,Jack Lebron,Atlantic,Corporate,Small Box
+1-Jan,51780,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Low,42,372.69,Express Air,-177.03,Rob Beeghly,Ontario,Consumer,Small Box
+1-Jan,7015,T65,Not Specified,42,7143.927,Express Air,2374.73,Matt Abelman,Atlantic,Home Office,Small Box
+1-Jan,33600,Xerox 1962,Low,42,187.28,Regular Air,-94.36,Sonia Sunley,West,Corporate,Small Box
+1-Jan,14471,Xerox 220,Not Specified,42,286.73,Regular Air,-141.51,Ralph Kennedy,West,Corporate,Small Box
+1-Jan,15044,Zoom V.92 V.44 PCI Internal Controllerless FaxModem,Low,42,1681.6,Regular Air,167.37,Erica Bern,Atlantic,Corporate,Small Box
+1-Jan,26304,3285,Medium,43,7452.137,Regular Air,2028.36,Art Ferguson,Atlantic,Corporate,Small Box
+1-Jan,52929,"AT&T Black Trimline Phone, Model 210",High,43,701.46,Express Air,-90.14,Muhammed MacIntyre,Northwest Territories,Small Business,Small Box
+1-Jan,24128,CF 888,High,43,6583.913,Regular Air,1459.79,Eugene Barchas,Northwest Territories,Corporate,Small Box
+1-Jan,51461,Telescoping Adjustable Floor Lamp,Not Specified,43,858.53,Regular Air,-97.54,Greg Guthrie,Prarie,Corporate,Large Box
+1-Jan,34816,"Tyvek Interoffice Envelopes, 9 1/2"" x 12 1/2"", 100/Box",Not Specified,43,2568.71,Regular Air,590.77,Sally Knutson,West,Corporate,Small Box
+1-Jan,37315,Xerox 1971,Low,43,170.81,Regular Air,-133.68,Luke Weiss,West,Corporate,Small Box
+1-Jan,9763,Avery 506,Medium,44,176.26,Regular Air,75.13,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Jan,22469,Bell Sonecor JB700 Caller ID,High,44,275.91,Regular Air,-162.37,Jack Lebron,Northwest Territories,Corporate,Medium Box
+1-Jan,48452,"Eldon® Image Series Desk Accessories, Burgundy",High,44,185.32,Regular Air,-192.56,Giulietta Weimer,Atlantic,Corporate,Small Box
+1-Jan,56101,GBC Therma-A-Bind 250T Electric Binding System,Not Specified,44,5347.13,Regular Air,1886.41,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,9927,"Lifetime Advantage™ Folding Chairs, 4/Carton",High,44,10087.6,Regular Air,3387.35,Grant Carroll,Northwest Territories,Corporate,Large Box
+1-Jan,30658,"SAFCO Commercial Wire Shelving, Black",Medium,44,6040.22,Regular Air,-942.5,Charles McCrossin,Northwest Territories,Corporate,Large Box
+1-Jan,15618,Xerox 1939,Medium,44,792.8,Regular Air,26.27,Joy Smith,Atlantic,Consumer,Small Box
+1-Jan,13346,Xerox 224,Low,44,268.34,Regular Air,-240.83,Doug Bickford,Northwest Territories,Corporate,Small Box
+1-Jan,57153,"#10 White Business Envelopes,4 1/8 x 9 1/2",Critical,45,698.1,Regular Air,336.25,Meg O'Connel,Ontario,Corporate,Small Box
+1-Jan,49634,Avery Durable Binders,Not Specified,45,132.31,Regular Air,10.91,Sally Knutson,West,Consumer,Small Box
+1-Jan,15808,Belkin 105-Key Black Keyboard,Critical,45,882.96,Regular Air,11.65,Bill Donatelli,Ontario,Corporate,Small Box
+1-Jan,41696,Hoover Portapower™ Portable Vacuum,Not Specified,45,237.28,Express Air,-2088.68,Bryan Mills,Northwest Territories,Small Business,Large Box
+1-Jan,54560,MicroTAC 650,Critical,45,2404.599,Express Air,496.89,Barbara Fisher,West,Small Business,Small Box
+1-Jan,35908,Portable Personal File Box,Not Specified,45,529.28,Express Air,-30.27,Brad Eason,Ontario,Small Business,Small Box
+1-Jan,30947,Self-Adhesive Address Labels for Typewriters by Universal,Low,45,345.2,Regular Air,183.53,Charles McCrossin,Northwest Territories,Corporate,Small Box
+1-Jan,24067,252,High,46,2640.6865,Express Air,751.38,Frank Atkinson,Atlantic,Corporate,Small Box
+1-Jan,33570,Binder Posts,Not Specified,46,265.88,Regular Air,-90.9,Ken Heidel,West,Corporate,Small Box
+1-Jan,31781,Fellowes Black Plastic Comb Bindings,Medium,46,249.02,Regular Air,-282.61,Sylvia Foulston,Northwest Territories,Corporate,Small Box
+1-Jan,53863,Fellowes Super Stor/Drawer® Files,High,46,7807.45,Express Air,1660.15,Christina DeMoss,West,Home Office,Small Box
+1-Jan,10048,Keytronic 105-Key Spanish Keyboard,Not Specified,46,3197.45,Regular Air,97.16,Sonia Sunley,West,Corporate,Small Box
+1-Jan,38021,"Premier Elliptical Ring Binder, Black",Medium,46,1482.01,Regular Air,709.33,Rob Haberlin,West,Corporate,Small Box
+1-Jan,42918,"Sharp EL501VB Scientific Calculator, Battery Operated, 10-Digit Display, Hard Case",High,46,410.43,Regular Air,-54.58,Logan Haushalter,Atlantic,Corporate,Medium Box
+1-Jan,24132,"Wilson Jones Hanging View Binder, White, 1""",Low,46,331.83,Regular Air,-101.25,Justin Knight,West,Corporate,Small Box
+1-Jan,38884,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),High,47,256,Regular Air,-119.84,Edward Hooks,Northwest Territories,Consumer,Small Box
+1-Jan,26567,300 Series Non-Flip,Critical,48,6109.817,Regular Air,1374.95,Sylvia Foulston,Northwest Territories,Corporate,Small Box
+1-Jan,27109,Micro Innovations 104 Keyboard,Critical,48,538.22,Regular Air,-154.66,Barry French,Northwest Territories,Consumer,Small Box
+1-Jan,15463,Xerox 1920,Low,48,293.3,Express Air,-193.48,Evan Minnotte,Atlantic,Corporate,Small Box
+1-Jan,4261,Xerox 1950,Critical,48,274.38,Regular Air,-94.82,Lela Donovan,West,Corporate,Small Box
+1-Jan,32869,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Medium,49,2470.84,Regular Air,25.04,Christopher Schild,Atlantic,Corporate,Medium Box
+1-Jan,18308,StarTAC ST7762,Not Specified,49,5247.4835,Regular Air,1465.87,Ann Chong,Northwest Territories,Corporate,Small Box
+1-Jan,30149,9-3/4 Diameter Round Wall Clock,Medium,50,690.97,Regular Air,-16.94,Mark Cousins,West,Corporate,Small Box
+1-Jan,47846,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",High,50,5513.82,Regular Air,1581.93,Hilary Holden,Atlantic,Corporate,Medium Box
+1-Feb,1221,Avery Printable Repositionable Plastic Tabs,Not Specified,1,14.68,Regular Air,-13.78,Lela Donovan,West,Corporate,Small Box
+1-Feb,32199,Canon imageCLASS 2200 Advanced Copier,High,1,3672.89,Regular Air,-3061.82,Erica Bern,Atlantic,Corporate,Large Box
+1-Feb,48839,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",Critical,1,97.13,Regular Air,-37.06,Carlos Daly,Northwest Territories,Corporate,Small Box
+1-Feb,37860,Eldon Cleatmat® Chair Mats for Medium Pile Carpets,Medium,1,104.85,Regular Air,-98.31,Mike Pelletier,Northwest Territories,Corporate,Medium Box
+1-Feb,12452,Fellowes PB300 Plastic Comb Binding Machine,Medium,1,356.95,Regular Air,-228.24,Bill Donatelli,Ontario,Corporate,Small Box
+1-Feb,56101,Holmes Odor Grabber,Not Specified,1,21.45,Regular Air,-7.22,Bill Donatelli,Ontario,Corporate,Medium Box
+1-Feb,47750,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Low,1,195.04,Regular Air,-149.41,Sally Knutson,Atlantic,Corporate,Large Box
+1-Feb,52071,Staples Plastic Wall Frames,Not Specified,1,12.74,Regular Air,-11.39,Annie Thurman,Ontario,Consumer,Small Box
+1-Feb,22501,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",High,2,30.83,Express Air,7.27,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Feb,35558,9-3/4 Diameter Round Wall Clock,Critical,2,34.88,Regular Air,-22.12,Carlos Soltero,Atlantic,Consumer,Small Box
+1-Feb,28165,Heavy-Duty E-Z-D® Binders,Not Specified,2,24.96,Regular Air,-12.8,Grant Carroll,Northwest Territories,Corporate,Small Box
+1-Feb,36359,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",High,2,68.66,Regular Air,-29.6,Ken Heidel,West,Corporate,Small Box
+1-Feb,50278,Premium Transparent Presentation Covers by GBC,High,2,51.21,Regular Air,-27.53,Beth Thompson,Northwest Territories,Corporate,Small Box
+1-Feb,36803,V8160,Not Specified,2,103.105,Regular Air,-316.32,Ralph Kennedy,West,Corporate,Small Box
+1-Feb,15808,1726 Digital Answering Machine,Critical,3,58.14,Regular Air,-96.25,Bill Donatelli,Ontario,Corporate,Medium Box
+1-Feb,22534,Airmail Envelopes,Medium,3,279.33,Regular Air,-44.18,Kelly Williams,West,Corporate,Small Box
+1-Feb,46756,"Array® Parchment Paper, Assorted Colors",Medium,3,33.64,Regular Air,-22.45,Chuck Magee,Atlantic,Corporate,Small Box
+1-Feb,32452,Avery 507,Medium,3,8.6,Regular Air,-2.03,Joseph Airdo,Ontario,Consumer,Small Box
+1-Feb,48388,Binder Posts,High,3,21.64,Regular Air,-13.33,Marina Lichtenstein,West,Corporate,Small Box
+1-Feb,24070,Hon Olson Stacker Stools,High,3,431.29,Regular Air,-164.59,Sonia Sunley,West,Corporate,Large Box
+1-Feb,24132,"Tenex File Box, Personal Filing Tote with Lid, Black",Low,3,63.84,Regular Air,-47.97,Justin Knight,West,Corporate,Small Box
+1-Feb,5538,8290,Critical,4,430.848,Regular Air,-492.77,Julia Dunbar,Prarie,Consumer,Small Box
+1-Feb,54119,Acco Perma® 2700 Stacking Storage Drawers,Medium,4,127.56,Regular Air,-41.75,Monica Federle,West,Corporate,Small Box
+1-Feb,58368,Eldon® Wave Desk Accessories,High,4,14.23,Regular Air,-4.43,Doug Bickford,Atlantic,Corporate,Small Box
+1-Feb,12352,Fellowes Black Plastic Comb Bindings,Medium,5,36.86,Regular Air,-32.82,Hunter Glantz,Northwest Territories,Corporate,Small Box
+1-Feb,1826,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Not Specified,5,28.32,Regular Air,-14.35,Susan Vittorini,Ontario,Corporate,Small Box
+1-Feb,16967,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Low,5,397.55,Regular Air,-152.47,Brad Norvell,Atlantic,Corporate,Small Box
+1-Feb,20033,Sharp AL-1530CS Digital Copier,Critical,5,2543.95,Regular Air,-1011.32,Jack Lebron,Atlantic,Corporate,Large Box
+1-Feb,8995,Staples® General Use 3-Ring Binders,High,5,24.16,Express Air,8.05,Beth Paige,Nunavut,Consumer,Small Box
+1-Feb,24965,GBC DocuBind 200 Manual Binding Machine,Low,6,2528.49,Express Air,580.15,Jack Lebron,Atlantic,Corporate,Small Box
+1-Feb,55777,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Not Specified,6,323.53,Regular Air,136.32,Roy Skaria,West,Corporate,Small Box
+1-Feb,5504,HP Office Recycled Paper (20Lb. and 87 Bright),High,6,49.55,Express Air,-20.33,Anna Andreadi,West,Small Business,Small Box
+1-Feb,5698,"#10 White Business Envelopes,4 1/8 x 9 1/2",Medium,7,108.26,Regular Air,25.51,Kristina Nunn,West,Consumer,Small Box
+1-Feb,47108,Canon P1-DHIII Palm Printing Calculator,Not Specified,7,131.55,Regular Air,-43.74,Justin Hirsh,Atlantic,Consumer,Medium Box
+1-Feb,55366,"Fellowes Smart Design 104-Key Enhanced Keyboard, PS/2 Adapter, Platinum",Critical,7,387.17,Regular Air,-204.65,Doug Bickford,Northwest Territories,Corporate,Small Box
+1-Feb,9127,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Not Specified,7,2039.56,Express Air,-329.49,Bryan Davis,Northwest Territories,Corporate,Large Box
+1-Feb,26567,3M Organizer Strips,Critical,8,50.7,Regular Air,-44.07,Sylvia Foulston,Northwest Territories,Corporate,Small Box
+1-Feb,29185,"Conquest™ 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",High,8,468.49,Regular Air,-6.37,Rob Dowd,West,Corporate,Small Box
+1-Feb,21223,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Not Specified,8,435.29,Regular Air,122.41,Harold Engle,Atlantic,Consumer,Medium Box
+1-Feb,40164,"Seth Thomas 12"" Clock w/ Goldtone Case",Not Specified,8,184.07,Regular Air,75.63,Chuck Clark,West,Corporate,Small Box
+1-Feb,49763,Staples Standard Envelopes,Critical,8,49.04,Regular Air,9.29,Brad Norvell,Prarie,Corporate,Small Box
+1-Feb,19042,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",Critical,8,327.61,Regular Air,54.9,Evan Minnotte,Atlantic,Corporate,Small Box
+1-Feb,2530,Avery 479,Medium,9,23.46,Regular Air,4.58,Rob Haberlin,West,Corporate,Small Box
+1-Feb,17702,Belkin MediaBoard 104- Keyboard,High,9,264.63,Express Air,-66.78,Mark Cousins,West,Home Office,Small Box
+1-Feb,50754,Bell Sonecor JB700 Caller ID,Not Specified,9,64.0305,Regular Air,-58.34,Becky Castell,Northwest Territories,Consumer,Medium Box
+1-Feb,7427,Flexible Leather- Look Classic Collection Ring Binder,Not Specified,9,182.26,Regular Air,60.61,Ricardo Emerson,West,Corporate,Small Box
+1-Feb,4612,Hoover Portapower™ Portable Vacuum,Medium,9,89.55,Regular Air,-375.64,Jim Radford,Nunavut,Corporate,Large Box
+1-Feb,53152,Southworth 25% Cotton Premium Laser Paper and Envelopes,Medium,9,186.67,Regular Air,2.06,Bill Eplett,Ontario,Corporate,Small Box
+1-Feb,16451,Surelock™ Post Binders,Not Specified,9,252.79,Regular Air,58.23,Don Jones,Northwest Territories,Corporate,Small Box
+1-Feb,35649,Tuff Stuff™ Recycled Round Ring Binders,Medium,9,43.26,Regular Air,3.9,Justin Hirsh,West,Consumer,Small Box
+1-Feb,24576,DAX Clear Channel Poster Frame,Not Specified,10,152.84,Regular Air,38.02,Luke Weiss,West,Corporate,Small Box
+1-Feb,902,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,Not Specified,10,1925.83,Regular Air,359.83,Meg O'Connel,Prarie,Corporate,Small Box
+1-Feb,37541,Xerox 1882,Medium,10,550.61,Express Air,98.32,Claudia Miner,Northwest Territories,Small Business,Small Box
+1-Feb,1028,3285,High,11,2021.147,Regular Air,-60.39,Matt Collins,West,Consumer,Small Box
+1-Feb,19686,GBC Binding covers,Medium,11,152.67,Regular Air,12.76,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Feb,1221,GBC DocuBind TL300 Electric Binding System,Not Specified,11,10145.14,Regular Air,3724.57,Lela Donovan,West,Corporate,Small Box
+1-Feb,23207,Xerox 1979,Critical,11,336.91,Regular Air,42.5,Ralph Kennedy,West,Corporate,Small Box
+1-Feb,39015,Xerox 1994,Medium,11,74.02,Regular Air,-28.45,Lycoris Saunders,Ontario,Corporate,Small Box
+1-Feb,613,"Angle-D Binders with Locking Rings, Label Holders",High,12,93.54,Regular Air,-54.04,Carl Jackson,Nunavut,Corporate,Small Box
+1-Feb,54150,CF 888,Critical,12,2011.6355,Express Air,-53.69,Bart Watters,Prarie,Corporate,Small Box
+1-Feb,5569,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Not Specified,12,118.97,Regular Air,-0.06,Frank Price,Nunavut,Corporate,Small Box
+1-Feb,12419,Polycom ViewStation™ Adapter H323 Videoconferencing Unit,Critical,12,22079.47,Regular Air,5322.14,Sylvia Foulston,Northwest Territories,Corporate,Medium Box
+1-Feb,22532,GBC Standard Plastic Binding Systems Combs,Critical,13,121.66,Regular Air,-11.8,Carlos Soltero,Northwest Territories,Consumer,Small Box
+1-Feb,53508,Logitech Cordless Navigator Duo,High,13,1072.22,Regular Air,149.64,Joy Smith,Prarie,Consumer,Small Box
+1-Feb,58978,Xerox 193,Low,13,75.89,Regular Air,-31.01,Kristina Nunn,Atlantic,Consumer,Small Box
+1-Feb,10945,600 Series Flip,Medium,14,1170.025,Regular Air,4.22,Ralph Knight,Northwest Territories,Consumer,Small Box
+1-Feb,35,CF 688,Not Specified,14,1892.848,Regular Air,48.99,Julie Creighton,West,Corporate,Small Box
+1-Feb,52737,GBC VeloBinder Strips,Not Specified,14,125.54,Express Air,-15.74,Alex Avila,West,Home Office,Small Box
+1-Feb,1187,Logitech Access Keyboard,Medium,14,222.91,Regular Air,20.21,Guy Armstrong,Atlantic,Corporate,Small Box
+1-Feb,15618,StarTAC 7760,Medium,14,782.4505,Regular Air,-11.4,Joy Smith,Atlantic,Consumer,Small Box
+1-Feb,38336,Wilson Jones DublLock® D-Ring Binders,Critical,14,91.75,Regular Air,2.82,Julie Creighton,West,Corporate,Small Box
+1-Feb,28675,252,Critical,15,822.8425,Regular Air,4.39,Ralph Knight,Northwest Territories,Consumer,Small Box
+1-Feb,2306,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",High,15,113.5,Regular Air,-46.35,Liz Thompson,Prarie,Corporate,Small Box
+1-Feb,12773,Eldon Image Series Black Desk Accessories,Low,15,67.41,Regular Air,-49.6,Greg Guthrie,Atlantic,Corporate,Small Box
+1-Feb,48452,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",High,15,73.41,Regular Air,-44.79,Giulietta Weimer,Atlantic,Corporate,Small Box
+1-Feb,32611,Xerox 1989,Medium,15,81.66,Regular Air,-31.99,Neil Knudson,West,Corporate,Small Box
+1-Feb,53667,Accessory35,Medium,16,481.049,Regular Air,46.51,Steve Carroll,Prarie,Consumer,Small Box
+1-Feb,40132,"Avery Flip-Chart Easel Binder, Black",Low,16,347.47,Regular Air,-86.2,Hunter Glantz,Northwest Territories,Corporate,Small Box
+1-Feb,32611,Economy Binders,Medium,16,33.76,Regular Air,-7.15,Neil Knudson,West,Corporate,Small Box
+1-Feb,21889,Recycled Steel Personal File for Standard File Folders,Low,16,817.18,Regular Air,103.38,Becky Castell,Northwest Territories,Consumer,Small Box
+1-Feb,12389,"SimpliFile™ Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",Medium,16,189.04,Regular Air,-74.77,Michael Granlund,Atlantic,Corporate,Small Box
+1-Feb,27553,VTech VT20-2481 2.4GHz Two-Line Phone System w/Answering Machine,Medium,16,2631.107,Regular Air,297.11,Jim Radford,Northwest Territories,Corporate,Medium Box
+1-Feb,4067,"Wilson Jones Hanging View Binder, White, 1""",High,16,118.38,Regular Air,-42.46,Shahid Shariari,West,Corporate,Small Box
+1-Feb,53572,#10 Self-Seal White Envelopes,Medium,17,184.09,Regular Air,4.79,Marina Lichtenstein,West,Corporate,Small Box
+1-Feb,4454,Avery 497,Low,17,55.45,Regular Air,21.42,Erica Bern,Atlantic,Corporate,Small Box
+1-Feb,9925,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Critical,17,86.47,Regular Air,-9.35,Chad Sievert,Atlantic,Corporate,Small Box
+1-Feb,56001,Xerox 210,Low,17,118.36,Express Air,-60.65,Alex Avila,West,Home Office,Small Box
+1-Feb,44256,Xerox 226,Low,17,114.28,Regular Air,-38.72,Sally Knutson,West,Corporate,Small Box
+1-Feb,8992,6340,High,18,1341.963,Regular Air,180.78,Shahid Shariari,West,Corporate,Small Box
+1-Feb,44071,"DXL™ Angle-View Binders with Locking Rings, Black",Not Specified,19,110.67,Regular Air,-43.75,Frank Price,Northwest Territories,Corporate,Small Box
+1-Feb,43109,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Critical,19,281.84,Regular Air,-21.85,Dorothy Wardle,Northwest Territories,Corporate,Small Box
+1-Feb,515,Holmes HEPA Air Purifier,Not Specified,19,394.27,Regular Air,30.94,Carlos Soltero,Nunavut,Consumer,Medium Box
+1-Feb,33570,i470,Not Specified,19,3093.864,Regular Air,286.4,Ken Heidel,West,Corporate,Small Box
+1-Feb,45731,Xerox 1894,Critical,19,146.63,Express Air,-30.06,Gene Hale,Atlantic,Consumer,Small Box
+1-Feb,22119,"Eureka Hand Vacuum, Bagless",Low,20,939.39,Regular Air,-122.77,Stewart Carmichael,West,Corporate,Small Box
+1-Feb,26370,Home/Office Personal File Carts,Not Specified,20,660.27,Express Air,63.83,Fred Wasserman,Northwest Territories,Home Office,Small Box
+1-Feb,50784,PC Concepts 116 Key Quantum 3000 Keyboard,High,20,638.72,Regular Air,-130.88,Chuck Magee,Prarie,Corporate,Small Box
+1-Feb,44387,Southworth 25% Cotton Antique Laid Paper & Envelopes,Low,20,173.09,Regular Air,-6.71,Erica Bern,Atlantic,Corporate,Small Box
+1-Feb,59395,Xerox 1885,Critical,20,963.3,Express Air,367.12,Cari Schnelling,Atlantic,Small Business,Small Box
+1-Feb,25473,Xerox 1893,High,20,794.32,Regular Air,67.61,Mary Zewe,Prarie,Corporate,Small Box
+1-Feb,43781,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Not Specified,21,917.39,Express Air,393.41,Claudia Miner,Northwest Territories,Small Business,Small Box
+1-Feb,43364,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",High,21,524.2,Regular Air,158.98,Susan Vittorini,Northwest Territories,Corporate,Small Box
+1-Feb,29318,"SAFCO Commercial Wire Shelving, Black",Not Specified,21,2954.14,Express Air,-522.94,Bobby Odegard,Ontario,Corporate,Large Box
+1-Feb,25318,12-1/2 Diameter Round Wall Clock,Critical,22,440.92,Express Air,-65.18,Julia West,Northwest Territories,Small Business,Small Box
+1-Feb,24132,"Fellowes Basic 104-Key Keyboard, Platinum",Low,22,446.46,Regular Air,-1.88,Justin Knight,West,Corporate,Small Box
+1-Feb,7110,SAFCO Arco Folding Chair,Low,22,6396.2,Regular Air,1902.24,Grant Carroll,Nunavut,Corporate,Large Box
+1-Feb,613,"SAFCO Mobile Desk Side File, Wire Frame",High,22,905.08,Regular Air,127.7,Carl Jackson,Nunavut,Corporate,Small Box
+1-Feb,14535,X-Rack™ File for Hanging Folders,Not Specified,22,245.96,Regular Air,-33.82,Gene Hale,West,Consumer,Small Box
+1-Feb,40160,"Howard Miller 16"" Diameter Gallery Wall Clock",Critical,23,1404.22,Regular Air,202.87,Julia West,Northwest Territories,Consumer,Small Box
+1-Feb,6144,Avery 492,Critical,24,67.35,Regular Air,22.63,Ralph Kennedy,West,Corporate,Small Box
+1-Feb,16165,Deflect-o Glass Clear Studded Chair Mats,Not Specified,24,1452.48,Express Air,376.52,Hallie Redmond,Prarie,Small Business,Medium Box
+1-Feb,58150,Peel & Stick Add-On Corner Pockets,Critical,24,60.36,Regular Air,-119.62,Susan Vittorini,Atlantic,Corporate,Small Box
+1-Feb,44450,StarTAC Analog,Critical,24,1326.51,Regular Air,58.17,Sean Wendt,West,Corporate,Small Box
+1-Feb,48067,T28 WORLD,Low,24,4010.9375,Express Air,630.7,Jennifer Braxton,Atlantic,Small Business,Small Box
+1-Feb,36646,Tennsco Industrial Shelving,Medium,24,1168.15,Express Air,-743.96,Muhammed MacIntyre,Northwest Territories,Small Business,Large Box
+1-Feb,36644,U.S. Robotics 56K Internet Call Modem,High,24,2298.32,Regular Air,218.72,Dorothy Wardle,Northwest Territories,Corporate,Small Box
+1-Feb,26368,Accessory12,Medium,25,1809.0125,Regular Air,795.05,Shahid Shariari,West,Corporate,Small Box
+1-Feb,45763,Avery 494,High,25,67.45,Regular Air,24.28,Lisa DeCherney,West,Corporate,Small Box
+1-Feb,33378,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",High,25,945.36,Regular Air,219.85,Joseph Airdo,Ontario,Consumer,Small Box
+1-Feb,12289,Canon BP1200DH 12-Digit Bubble Jet Printing Calculator,Low,25,3019.41,Regular Air,1269.05,Brendan Dodson,Northwest Territories,Corporate,Medium Box
+1-Feb,11911,"GBC Twin Loop™ Wire Binding Elements, 9/16"" Spine, Black",Critical,25,397.84,Regular Air,-14.75,Edward Hooks,Northwest Territories,Consumer,Small Box
+1-Feb,53508,Sharp EL500L Fraction Calculator,High,25,342.85,Regular Air,-32.42,Joy Smith,Prarie,Consumer,Medium Box
+1-Feb,5092,Xerox 1892,Low,25,978.77,Regular Air,220.91,John Castell,Atlantic,Consumer,Small Box
+1-Feb,42342,Xerox 1907,Not Specified,25,318.14,Regular Air,49.67,Bill Eplett,West,Corporate,Small Box
+1-Feb,16932,Xerox 1924,Critical,25,144.84,Regular Air,-120.99,Carlos Soltero,Northwest Territories,Consumer,Small Box
+1-Feb,36293,Xerox 220,Medium,25,165.36,Express Air,-94.79,Carlos Soltero,Atlantic,Small Business,Small Box
+1-Feb,45025,Avery Durable Binders,High,26,73.82,Regular Air,2.01,Mike Kennedy,Prarie,Corporate,Small Box
+1-Feb,24743,Hon Olson Stacker Stools,Low,26,3758.77,Regular Air,753.61,Sylvia Foulston,Northwest Territories,Corporate,Large Box
+1-Feb,51879,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Not Specified,26,1382.31,Regular Air,372.26,Monica Federle,West,Corporate,Small Box
+1-Feb,293,"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl",High,27,244.57,Regular Air,46.71,Barry French,Nunavut,Consumer,Small Box
+1-Feb,32582,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Not Specified,27,2780.88,Express Air,595.38,Tony Chapman,West,Consumer,Large Box
+1-Feb,9123,Project Tote Personal File,Critical,27,384.9,Express Air,-108.28,Matt Collins,West,Consumer,Small Box
+1-Feb,18788,Telescoping Adjustable Floor Lamp,Not Specified,27,566.12,Regular Air,-19.33,Joy Smith,Atlantic,Corporate,Large Box
+1-Feb,4037,Xerox 213,High,27,188.07,Regular Air,-101.85,Bruce Stewart,Prarie,Corporate,Small Box
+1-Feb,53477,Fellowes Super Stor/Drawer® Files,High,28,4479.16,Regular Air,610.9,Joy Smith,Prarie,Corporate,Small Box
+1-Feb,38625,US Robotics 56K V.92 External Faxmodem,Not Specified,28,2752,Express Air,336.47,Chad Sievert,West,Corporate,Small Box
+1-Feb,58884,Avery 474,Low,29,87.68,Regular Air,23.14,Chuck Clark,Atlantic,Corporate,Small Box
+1-Feb,39783,Avery 520,Not Specified,29,94.5,Regular Air,39.9,Sally Knutson,West,Corporate,Small Box
+1-Feb,52035,Canon PC1060 Personal Laser Copier,High,29,20872.16,Regular Air,-4437.91,Roy Skaria,West,Corporate,Large Box
+1-Feb,41153,Fellowes 17-key keypad for PS/2 interface,Medium,29,862.2,Regular Air,-45.1,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Feb,34816,Fellowes 8 Outlet Superior Workstation Surge Protector,Not Specified,29,1158.45,Regular Air,267.16,Sally Knutson,West,Corporate,Small Box
+1-Feb,11301,Microsoft Natural Keyboard Elite,Medium,29,1194.96,Regular Air,107.45,Tony Chapman,West,Consumer,Small Box
+1-Feb,13410,TI 36X Solar Scientific Calculator,Not Specified,29,701.94,Regular Air,158.91,Bobby Odegard,Ontario,Corporate,Medium Box
+1-Feb,40608,Xerox 1939,Not Specified,29,573.97,Regular Air,55.82,Bill Eplett,West,Corporate,Small Box
+1-Feb,12228,2160i,Not Specified,30,5015.051,Regular Air,1090.43,Brad Norvell,Atlantic,Corporate,Small Box
+1-Feb,18308,Durable Pressboard Binders,Not Specified,30,114.12,Regular Air,15.73,Ann Chong,Northwest Territories,Corporate,Small Box
+1-Feb,40962,M70,Critical,30,3276.9965,Regular Air,653.06,Mary Zewe,Ontario,Corporate,Small Box
+1-Feb,483,R380,High,30,4965.7595,Regular Air,1198.97,Clay Rozendal,Nunavut,Corporate,Small Box
+1-Feb,20389,Xerox 1920,High,30,201.35,Express Air,-107.37,Liz Price,West,Corporate,Small Box
+1-Feb,37315,5165,Low,31,4726.595,Express Air,1176.48,Luke Weiss,West,Corporate,Small Box
+1-Feb,48067,270c,Low,31,3229.66,Express Air,695.06,Jennifer Braxton,Atlantic,Small Business,Small Box
+1-Feb,58788,Belkin ErgoBoard™ Keyboard,Low,31,983.78,Regular Air,43.72,Christopher Schild,Prarie,Corporate,Small Box
+1-Feb,46243,Computer Printout Paper with Letter-Trim Perforations,Low,31,614.35,Express Air,78.89,Maria Bertelson,Ontario,Corporate,Small Box
+1-Feb,39783,GBC Standard Plastic Binding Systems Combs,Not Specified,31,295.97,Regular Air,5.02,Sally Knutson,West,Corporate,Small Box
+1-Feb,24132,Ibico Recycled Linen-Style Covers,Low,31,1252.89,Regular Air,339.75,Justin Knight,West,Corporate,Small Box
+1-Feb,38336,Micro Innovations 104 Keyboard,Critical,31,346.57,Regular Air,-116.45,Julie Creighton,West,Corporate,Small Box
+1-Feb,39683,Poly Designer Cover & Back,High,31,615.58,Regular Air,168,Jeremy Lonsdale,Northwest Territories,Corporate,Small Box
+1-Feb,28003,Xerox 1897,Critical,31,157.79,Regular Air,-95.92,Charles McCrossin,Northwest Territories,Corporate,Small Box
+1-Feb,42339,Xerox 1993,Critical,31,206.54,Regular Air,-178.82,Cathy Armstrong,West,Consumer,Small Box
+1-Feb,20642,Avery 506,High,32,135.2,Regular Air,59.4,Darren Koutras,Atlantic,Consumer,Small Box
+1-Feb,19044,Canon MP41DH Printing Calculator,Low,32,4800.44,Regular Air,1912.92,Rob Dowd,West,Corporate,Medium Box
+1-Feb,48197,Dana Halogen Swing-Arm Architect Lamp,Not Specified,32,1282.49,Regular Air,154.74,Anthony O'Donnell,West,Consumer,Large Box
+1-Feb,31941,Honeywell Quietcare HEPA Air Cleaner,Medium,32,2564.45,Express Air,650.73,Kimberly Carter,West,Small Business,Medium Box
+1-Feb,31553,Multimedia Mailers,Critical,32,4906.85,Regular Air,1907.94,Sean Wendt,West,Corporate,Small Box
+1-Feb,37634,Portable Personal File Box,Medium,32,368.18,Regular Air,-36.78,Brendan Dodson,Northwest Territories,Corporate,Small Box
+1-Feb,11362,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Low,32,3245.73,Regular Air,569.57,Hilary Holden,Atlantic,Corporate,Medium Box
+1-Feb,48931,"Fellowes Basic 104-Key Keyboard, Platinum",Low,33,750.66,Regular Air,120.05,Charles Sheldon,Prarie,Corporate,Small Box
+1-Feb,52225,Xerox 1940,Critical,33,1817.9,Regular Air,700.31,Dana Kaydos,Prarie,Corporate,Small Box
+1-Feb,20961,Canon PC-428 Personal Copier,Not Specified,34,6607.92,Regular Air,1462.72,Lela Donovan,West,Corporate,Large Box
+1-Feb,22368,"Carina 42""Hx23 3/4""W Media Storage Unit",Medium,34,2788.04,Regular Air,-849.18,Sarah Jordon,Atlantic,Consumer,Large Box
+1-Feb,12544,Eldon® Wave Desk Accessories,Low,34,74.3,Regular Air,-129.01,Jim Radford,Northwest Territories,Corporate,Small Box
+1-Feb,29318,StarTAC ST7762,Not Specified,34,3375.3075,Regular Air,562.13,Bobby Odegard,Ontario,Corporate,Small Box
+1-Feb,28870,6160,High,35,3310.9455,Regular Air,822.4,Cindy Schnelling,Northwest Territories,Corporate,Small Box
+1-Feb,41991,DAX Clear Channel Poster Frame,Low,35,543.22,Regular Air,68.44,Philip Brown,Atlantic,Corporate,Small Box
+1-Feb,51365,Eldon Wave Desk Accessories,High,35,195.23,Regular Air,-72.46,Theone Pippenger,Prarie,Corporate,Small Box
+1-Feb,10470,"Eldon® Expressions™ Wood Desk Accessories, Oak",Critical,35,246.98,Regular Air,-94.78,Khloe Miller,West,Corporate,Small Box
+1-Feb,450,Hanging Personal Folder File,Not Specified,35,543.72,Regular Air,-211.13,Matt Collins,West,Consumer,Small Box
+1-Feb,8995,Luxo Professional Combination Clamp-On Lamps,High,35,3389.93,Express Air,737.94,Beth Paige,Northwest Territories,Consumer,Large Box
+1-Feb,58340,Eureka The Boss® Cordless Rechargeable Stick Vac,Medium,36,1936.3,Regular Air,278.12,Sylvia Foulston,Atlantic,Corporate,Small Box
+1-Feb,59651,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Critical,36,283.21,Regular Air,-196.06,Brendan Dodson,Atlantic,Corporate,Small Box
+1-Feb,8994,Keytronic Designer 104- Key Black Keyboard,Low,36,1423.35,Regular Air,-580.32,Christopher Schild,Atlantic,Corporate,Small Box
+1-Feb,2720,StarTAC 7760,Critical,36,2051.016,Express Air,483.97,Christopher Martinez,West,Small Business,Small Box
+1-Feb,54501,T193,Critical,36,2039.082,Regular Air,481.7,Guy Armstrong,Prarie,Corporate,Small Box
+1-Feb,15907,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",High,36,3722.29,Express Air,950.68,Thomas Seio,Northwest Territories,Home Office,Medium Box
+1-Feb,1600,Xerox 1922,Medium,36,191.6,Regular Air,-150.74,Liz MacKendrick,Ontario,Corporate,Small Box
+1-Feb,40327,Xerox 1953,Medium,36,152.96,Regular Air,-123.87,Erica Bern,Atlantic,Corporate,Small Box
+1-Feb,7906,3M Office Air Cleaner,Medium,37,1003.06,Regular Air,271.78,Beth Paige,Nunavut,Consumer,Medium Box
+1-Feb,53894,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Critical,37,2756.17,Regular Air,-1561.72,Cathy Armstrong,Atlantic,Consumer,Large Box
+1-Feb,3109,Talkabout T8097,Low,37,6477.7395,Regular Air,1653.97,Liz MacKendrick,Ontario,Corporate,Small Box
+1-Feb,23713,8890,Not Specified,38,3701.5205,Regular Air,894.06,Katrina Bavinger,Prarie,Consumer,Small Box
+1-Feb,17831,Xerox 1947,Critical,38,260.41,Express Air,-45.75,Ricardo Emerson,West,Corporate,Small Box
+1-Feb,32869,2180,Medium,39,5250.6625,Regular Air,930.99,Christopher Schild,Atlantic,Corporate,Small Box
+1-Feb,20003,Belkin 105-Key Black Keyboard,Medium,39,796.08,Regular Air,30.29,Shirley Schmidt,Ontario,Corporate,Small Box
+1-Feb,49634,Belkin 6 Outlet Metallic Surge Strip,Not Specified,39,403.73,Regular Air,-44.13,Sally Knutson,Atlantic,Consumer,Small Box
+1-Feb,54115,Cardinal Holdit Business Card Pockets,Low,39,197.11,Regular Air,-89.42,Brian Moss,Prarie,Corporate,Small Box
+1-Feb,48230,"Deflect-o SuperTray™ Unbreakable Stackable Tray, Letter, Black",Not Specified,39,1140.26,Express Air,387.2,Dana Kaydos,Prarie,Corporate,Small Box
+1-Feb,15621,Eldon Portable Mobile Manager,Critical,39,1105.66,Regular Air,-136.2,Gene Hale,West,Consumer,Medium Box
+1-Feb,45059,Fellowes Stor/Drawer® Steel Plus™ Storage Drawers,Not Specified,39,3401.8,Express Air,-508.87,Tony Chapman,Atlantic,Consumer,Small Box
+1-Feb,31297,Model L Table or Wall-Mount Pencil Sharpener,Low,39,679.95,Regular Air,-93.3,Mike Kennedy,West,Corporate,Small Box
+1-Feb,2532,Self-Adhesive Address Labels for Typewriters by Universal,High,39,282.07,Regular Air,140.01,Alan Barnes,Nunavut,Corporate,Small Box
+1-Feb,40608,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Not Specified,39,223.79,Regular Air,-89.88,Bill Eplett,West,Corporate,Small Box
+1-Feb,9574,Ibico Covers for Plastic or Wire Binding Elements,Medium,40,434.62,Regular Air,-68.98,Joy Smith,Atlantic,Corporate,Small Box
+1-Feb,33250,Kensington 7 Outlet MasterPiece Power Center,Not Specified,40,7381.19,Regular Air,2998.88,Guy Thornton,Ontario,Corporate,Small Box
+1-Feb,5988,Sharp AL-1530CS Digital Copier,Not Specified,40,19109.61,Express Air,-379.29,Sanjit Chand,West,Home Office,Large Box
+1-Feb,6182,Xerox 1966,Low,40,255.48,Regular Air,-116.79,Grant Carroll,Nunavut,Corporate,Small Box
+1-Feb,6982,12-1/2 Diameter Round Wall Clock,Not Specified,41,844.09,Regular Air,52.56,Dorothy Wardle,Nunavut,Corporate,Small Box
+1-Feb,39683,"Lifetime Advantage™ Folding Chairs, 4/Carton",High,41,8387.1,Regular Air,2113.95,Jeremy Lonsdale,Northwest Territories,Corporate,Large Box
+1-Feb,8995,Xerox 1904,High,41,270.84,Express Air,-78.02,Beth Paige,Northwest Territories,Consumer,Small Box
+1-Feb,36803,Avery 514,Not Specified,42,121.65,Regular Air,30.76,Ralph Kennedy,West,Corporate,Small Box
+1-Feb,43329,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Medium,42,2475.83,Regular Air,752.37,Doug Bickford,Northwest Territories,Corporate,Small Box
+1-Feb,50310,Belkin F9M820V08 8 Outlet Surge,Medium,42,1811.3,Express Air,520.41,Sarah Foster,West,Corporate,Small Box
+1-Feb,18432,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",High,42,451.32,Regular Air,1.16,Art Ferguson,Atlantic,Corporate,Small Box
+1-Feb,57159,Hammermill Color Copier Paper (28Lb. and 96 Bright),Critical,42,460.2,Regular Air,-214.39,Hilary Holden,Prarie,Corporate,Small Box
+1-Feb,51494,TI 30X Scientific Calculator,Critical,42,493.56,Regular Air,12.73,Justin Hirsh,Atlantic,Consumer,Medium Box
+1-Feb,28290,"Fellowes Internet Keyboard, Platinum",Low,43,1307.35,Express Air,-154.24,Maria Bertelson,Ontario,Home Office,Small Box
+1-Feb,16419,Xerox 1978,Not Specified,43,241.19,Regular Air,-103.65,Joy Smith,Atlantic,Consumer,Small Box
+1-Feb,55429,Xerox 214,High,43,260.59,Regular Air,-157.76,Nathan Cano,Prarie,Consumer,Small Box
+1-Feb,45155,ACCOHIDE® Binder by Acco,Low,44,181.61,Regular Air,-150.26,Ralph Kennedy,Atlantic,Corporate,Small Box
+1-Feb,52933,Avery Non-Stick Binders,Low,44,210.46,Express Air,50.04,Liz Price,Atlantic,Consumer,Small Box
+1-Feb,36480,Lock-Up Easel 'Spel-Binder',Medium,44,1190.8,Regular Air,502.49,Lela Donovan,West,Corporate,Small Box
+1-Feb,12934,"Staples #10 Laser & Inkjet Envelopes, 4 1/8"" x 9 1/2"", 100/Box",Not Specified,45,440.39,Regular Air,186.64,Guy Armstrong,Atlantic,Corporate,Small Box
+1-Feb,4257,Staples Brown Kraft Recycled Clasp Envelopes,Medium,45,253.89,Regular Air,-83.66,Liz Price,West,Consumer,Small Box
+1-Feb,51648,Zoom V.92 USB External Faxmodem,Low,45,2354.8,Regular Air,332.97,Roy Skaria,West,Corporate,Small Box
+1-Feb,13120,GBC Binding covers,Low,46,590.43,Regular Air,82.59,Joy Smith,Atlantic,Consumer,Small Box
+1-Feb,4416,GBC DocuBind P100 Manual Binding Machine,Low,46,7441.29,Regular Air,2665.4,Erica Bern,Atlantic,Corporate,Small Box
+1-Feb,42918,"GBC Laser Imprintable Binding System Covers, Desert Sand",High,46,648.26,Regular Air,30.48,Logan Haushalter,Atlantic,Corporate,Small Box
+1-Feb,51879,Southworth 25% Cotton Premium Laser Paper and Envelopes,Not Specified,46,991.36,Regular Air,212.06,Monica Federle,West,Corporate,Small Box
+1-Feb,59909,Staples File Caddy,Low,46,411.56,Express Air,-188.02,Christina Vanderzanden,Ontario,Small Business,Small Box
+1-Feb,9126,"Acco Smartsocket™ Table Surge Protector, 6 Color-Coded Adapter Outlets",Medium,47,2799.7,Regular Air,884.08,Sylvia Foulston,Northwest Territories,Corporate,Small Box
+1-Feb,21856,Avery 487,Not Specified,47,168.55,Regular Air,71.77,Sonia Sunley,West,Corporate,Small Box
+1-Feb,53156,Avery 491,Not Specified,47,186.93,Regular Air,56.44,Bryan Davis,Northwest Territories,Corporate,Small Box
+1-Feb,2791,Avery Binder Labels,High,47,191.67,Regular Air,-236.27,Eugene Barchas,Nunavut,Corporate,Small Box
+1-Feb,7427,Hoover WindTunnel™ Plus Canister Vacuum,Not Specified,47,16002.29,Regular Air,4604.79,Ricardo Emerson,West,Corporate,Small Box
+1-Feb,45601,Xerox 1936,High,47,945.03,Regular Air,267.64,Dan Reichenbach,Atlantic,Corporate,Small Box
+1-Feb,47520,Xerox Blank Computer Paper,Not Specified,47,925.3,Regular Air,257.31,Liz Price,Atlantic,Consumer,Small Box
+1-Feb,37729,Avery Printable Repositionable Plastic Tabs,Not Specified,48,447.89,Regular Air,-26.78,Giulietta Weimer,West,Corporate,Small Box
+1-Feb,57959,"Micro Innovations Micro 3000 Keyboard, Black",Medium,48,1269.79,Express Air,-65.33,Sally Knutson,West,Consumer,Small Box
+1-Feb,29185,Westinghouse Clip-On Gooseneck Lamps,High,48,446.53,Express Air,-261.45,Rob Dowd,West,Corporate,Large Box
+1-Feb,22151,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",High,49,465.83,Regular Air,-79.72,Beth Thompson,Northwest Territories,Corporate,Small Box
+1-Feb,44320,Laminate Occasional Tables,Medium,49,7002.08,Regular Air,-1640.51,Sally Knutson,West,Corporate,Large Box
+1-Feb,34978,Self-Adhesive Ring Binder Labels,High,49,165.51,Regular Air,-269.91,Carlos Soltero,Atlantic,Consumer,Small Box
+1-Feb,16706,T39m,High,49,6175.777,Express Air,1881.58,Beth Thompson,Northwest Territories,Corporate,Small Box
+1-Feb,10437,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Critical,50,820.52,Regular Air,-191.22,Don Jones,Northwest Territories,Corporate,Small Box
+1-Mar,52193,Avery 492,Not Specified,1,17.89,Express Air,10.51,Mike Pelletier,Northwest Territories,Corporate,Small Box
+1-Mar,41409,Ibico Covers for Plastic or Wire Binding Elements,Not Specified,1,18.92,Regular Air,-18.25,Beth Thompson,Northwest Territories,Corporate,Small Box
+1-Mar,55777,StarTAC 7760,Not Specified,1,65.7475,Express Air,-252.48,Roy Skaria,West,Corporate,Small Box
+1-Mar,4007,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",High,1,305.82,Regular Air,-232.24,Jack Lebron,Atlantic,Corporate,Large Box
+1-Mar,27909,Xerox 1940,Critical,1,62.26,Regular Air,-23.24,Monica Federle,Northwest Territories,Corporate,Small Box
+1-Mar,28486,Deluxe Rollaway Locking File with Drawer,High,2,811.13,Regular Air,-517.47,Carlos Daly,Northwest Territories,Corporate,Small Box
+1-Mar,56640,Personal Creations™ Ink Jet Cards and Labels,High,2,29.31,Regular Air,-12.78,Anthony O'Donnell,West,Corporate,Small Box
+1-Mar,5894,APC 7 Outlet Network SurgeArrest Surge Protector,High,3,239.03,Regular Air,-68.22,Ann Chong,Nunavut,Corporate,Small Box
+1-Mar,9285,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Critical,3,124.81,Regular Air,-11.94,David Philippe,Atlantic,Consumer,Small Box
+1-Mar,28290,Fellowes Super Stor/Drawer® Files,Low,3,523.58,Express Air,-179.36,Maria Bertelson,Ontario,Home Office,Small Box
+1-Mar,50208,Avery Hole Reinforcements,Medium,4,38.76,Express Air,-12.13,Sarah Bern,Atlantic,Corporate,Small Box
+1-Mar,39332,Dana Halogen Swing-Arm Architect Lamp,Critical,4,198.72,Express Air,-34.43,Khloe Miller,West,Consumer,Large Box
+1-Mar,11941,Hanging Personal Folder File,Critical,4,73.07,Regular Air,-41.01,Jamie Kunitz,Northwest Territories,Corporate,Small Box
+1-Mar,33703,Portable Personal File Box,Not Specified,4,63.52,Express Air,-8.47,Carl Ludwig,Northwest Territories,Corporate,Small Box
+1-Mar,44451,"Seth Thomas 12"" Clock w/ Goldtone Case",Critical,4,103.9,Express Air,-19.26,Khloe Miller,Atlantic,Home Office,Small Box
+1-Mar,24132,Wilson Jones DublLock® D-Ring Binders,Low,4,31.01,Regular Air,-4.49,Justin Knight,West,Corporate,Small Box
+1-Mar,20422,Avery 498,High,5,15.38,Regular Air,1.61,Gene Hale,West,Consumer,Small Box
+1-Mar,42209,Fellowes Command Center 5-outlet power strip,High,5,324.55,Regular Air,-12.82,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Mar,31270,"Fellowes Internet Keyboard, Platinum",Medium,5,165.04,Regular Air,-112.44,Michelle Lonsdale,Northwest Territories,Corporate,Small Box
+1-Mar,30467,GBC DocuBind 200 Manual Binding Machine,Critical,5,2019.65,Regular Air,289.88,John Castell,West,Consumer,Small Box
+1-Mar,9509,Xerox 1887,Not Specified,5,101.21,Express Air,2.13,Joy Bell,Northwest Territories,Home Office,Small Box
+1-Mar,59878,Canon P1-DHIII Palm Printing Calculator,High,6,112.4,Regular Air,-46.75,Ivan Gibson,Ontario,Corporate,Medium Box
+1-Mar,6116,High Speed Automatic Electric Letter Opener,Medium,6,9620.82,Regular Air,-1759.58,Barry Weirich,Nunavut,Corporate,Medium Box
+1-Mar,26272,Hon Olson Stacker Stools,Low,6,905.94,Express Air,-4.19,Carlos Daly,Northwest Territories,Home Office,Large Box
+1-Mar,33893,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Not Specified,6,232.21,Regular Air,-14.03,Sarah Jordon,West,Consumer,Small Box
+1-Mar,21892,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",High,6,34.88,Regular Air,-18.34,Justin Knight,West,Corporate,Small Box
+1-Mar,40961,Avery 520,Medium,7,23.84,Regular Air,5.88,Bill Donatelli,Ontario,Corporate,Small Box
+1-Mar,3393,Logitech Access Keyboard,High,7,127.74,Express Air,-5.57,Steve Carroll,Atlantic,Consumer,Small Box
+1-Mar,1925,SAFCO Arco Folding Chair,Critical,7,1874.37,Regular Air,67.84,Brian Moss,West,Corporate,Large Box
+1-Mar,20455,V 3600 Series,Critical,7,381.1995,Express Air,-233.56,Dana Kaydos,Atlantic,Corporate,Small Box
+1-Mar,14375,Xerox 1978,Medium,7,44.05,Regular Air,-21.77,Rick Duston,West,Corporate,Small Box
+1-Mar,3908,6160,Medium,8,820.284,Regular Air,-180.2,Dorothy Wardle,Nunavut,Corporate,Small Box
+1-Mar,32229,Canon MP41DH Printing Calculator,High,8,1219.19,Regular Air,44.37,Carlos Daly,Northwest Territories,Corporate,Medium Box
+1-Mar,18144,Eldon Portable Mobile Manager,Critical,8,234.28,Regular Air,-65.42,Dorothy Wardle,Northwest Territories,Corporate,Medium Box
+1-Mar,47873,Eldon Wave Desk Accessories,Critical,8,52.39,Regular Air,-17.38,Doug Bickford,Northwest Territories,Corporate,Small Box
+1-Mar,13120,GBC Standard Therm-A-Bind Covers,Low,8,216.33,Regular Air,-17.37,Joy Smith,Atlantic,Consumer,Small Box
+1-Mar,5318,Kensington 7 Outlet MasterPiece® HOMEOFFICE Power Control Center,High,8,1042.25,Regular Air,195.16,Matt Collins,West,Consumer,Small Box
+1-Mar,48931,Logitech Internet Navigator Keyboard,Low,8,254.32,Regular Air,-117.39,Charles Sheldon,Prarie,Corporate,Small Box
+1-Mar,11202,Satellite Sectional Post Binders,Medium,8,339.81,Regular Air,79.59,Barry Weirich,Northwest Territories,Corporate,Small Box
+1-Mar,53600,Wilson Jones Impact Binders,Medium,8,55.59,Express Air,-17.95,Roland Black,Prarie,Small Business,Small Box
+1-Mar,47108,2180,Not Specified,9,1288.515,Express Air,-382.57,Justin Hirsh,Atlantic,Consumer,Small Box
+1-Mar,50336,Avery Binding System Hidden Tab™ Executive Style Index Sets,Not Specified,9,58.98,Regular Air,-17.79,Joseph Airdo,Ontario,Consumer,Small Box
+1-Mar,53152,Telescoping Adjustable Floor Lamp,Medium,9,196.41,Regular Air,27.91,Bill Eplett,Ontario,Corporate,Large Box
+1-Mar,35300,*Staples* Packaging Labels,Medium,10,28.81,Regular Air,7.15,Dan Reichenbach,Atlantic,Corporate,Small Box
+1-Mar,22656,Belkin ErgoBoard™ Keyboard,Not Specified,10,309.3,Express Air,-77.89,Evan Minnotte,Atlantic,Corporate,Small Box
+1-Mar,57507,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Critical,10,155.45,Regular Air,-19.68,Logan Haushalter,Prarie,Corporate,Small Box
+1-Mar,46948,Wilson Jones® Four-Pocket Poly Binders,Low,10,64.13,Regular Air,-28.97,Mike Kennedy,Prarie,Corporate,Small Box
+1-Mar,54304,Belkin Premiere Surge Master II 8-outlet surge protector,High,11,558.62,Regular Air,118.32,Justin Hirsh,Atlantic,Consumer,Small Box
+1-Mar,24132,Self-Adhesive Ring Binder Labels,Low,12,47.79,Regular Air,-57.75,Justin Knight,West,Corporate,Small Box
+1-Mar,24386,Targus USB Numeric Keypad,High,12,503.08,Regular Air,-102.74,Bruce Stewart,Prarie,Corporate,Small Box
+1-Mar,49952,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",High,12,1323.67,Express Air,630.28,Beth Thompson,Northwest Territories,Corporate,Medium Box
+1-Mar,52130,ACCOHIDE® Binder by Acco,Low,13,63.33,Regular Air,-39.96,Carlos Soltero,Prarie,Consumer,Small Box
+1-Mar,21509,Avery 487,High,13,47.93,Regular Air,15.82,Dennis Bolton,West,Consumer,Small Box
+1-Mar,34177,Avery 494,High,13,34.42,Regular Air,9.47,Toby Braunhardt,Northwest Territories,Corporate,Small Box
+1-Mar,1412,Avery 52,Not Specified,13,59.03,Express Air,26.92,Carlos Soltero,Nunavut,Consumer,Small Box
+1-Mar,10432,Motorola SB4200 Cable Modem,Low,13,2323.36,Regular Air,220.39,Sonia Sunley,West,Corporate,Small Box
+1-Mar,33894,PC Concepts 116 Key Quantum 3000 Keyboard,Critical,13,438.93,Express Air,-119.02,Doug Bickford,Northwest Territories,Corporate,Small Box
+1-Mar,25635,Belkin F9M820V08 8 Outlet Surge,Critical,14,633.08,Express Air,145.48,Sally Knutson,West,Corporate,Small Box
+1-Mar,53703,"Fellowes Strictly Business® Drawer File, Letter/Legal Size",Not Specified,14,1966.26,Regular Air,-34.79,Guy Armstrong,Prarie,Corporate,Small Box
+1-Mar,51361,Xerox 199,Low,14,76.06,Express Air,-35.99,Meg O'Connel,Ontario,Corporate,Small Box
+1-Mar,42561,Accessory12,Low,15,1062.959,Express Air,298.48,Beth Paige,Northwest Territories,Consumer,Small Box
+1-Mar,24386,Avery 491,High,15,76.94,Express Air,29.67,Bruce Stewart,Prarie,Corporate,Small Box
+1-Mar,11456,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Low,15,1519.9,Regular Air,399.37,Doug Bickford,Northwest Territories,Corporate,Large Box
+1-Mar,18308,Fellowes 17-key keypad for PS/2 interface,Not Specified,15,436.05,Regular Air,-92.58,Ann Chong,Northwest Territories,Corporate,Small Box
+1-Mar,14726,"Fellowes Basic 104-Key Keyboard, Platinum",Low,15,310.87,Regular Air,-21.48,Ralph Knight,Northwest Territories,Consumer,Small Box
+1-Mar,39364,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,High,15,19417.55,Regular Air,8417.57,Jamie Kunitz,Northwest Territories,Corporate,Small Box
+1-Mar,18432,Holmes Odor Grabber,High,15,217.66,Express Air,-24.91,Art Ferguson,Atlantic,Corporate,Medium Box
+1-Mar,25767,Xerox 1892,High,15,593.73,Regular Air,108.01,Ann Chong,Northwest Territories,Corporate,Small Box
+1-Mar,54501,Sharp EL500L Fraction Calculator,Critical,16,225.46,Regular Air,-33.03,Guy Armstrong,Prarie,Corporate,Medium Box
+1-Mar,1221,Storex DuraTech Recycled Plastic Frosted Binders,Not Specified,16,68.45,Regular Air,-57.88,Lela Donovan,West,Corporate,Small Box
+1-Mar,42112,T28 WORLD,Not Specified,16,2744.361,Regular Air,201.03,Bill Eplett,West,Corporate,Small Box
+1-Mar,30499,Wausau Papers Astrobrights® Colored Envelopes,High,16,92.06,Regular Air,5.66,Carlos Soltero,Atlantic,Consumer,Small Box
+1-Mar,23264,Xerox 1930,Critical,16,108.42,Regular Air,-50.82,Clay Rozendal,Northwest Territories,Corporate,Small Box
+1-Mar,51525,Belkin 105-Key Black Keyboard,Critical,18,360.24,Express Air,-36.24,Patrick O'Brill,Atlantic,Home Office,Small Box
+1-Mar,2791,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",High,18,507.64,Regular Air,118.94,Eugene Barchas,Nunavut,Corporate,Small Box
+1-Mar,8257,Xerox 1910,Low,18,881.32,Regular Air,373.67,David Philippe,Atlantic,Consumer,Small Box
+1-Mar,18273,Zoom V.92 USB External Faxmodem,Low,18,925.03,Regular Air,-3.68,Jack Lebron,Atlantic,Corporate,Small Box
+1-Mar,34631,Canon PC1060 Personal Laser Copier,Not Specified,19,12616.2,Regular Air,2808.22,Brendan Dodson,Northwest Territories,Corporate,Large Box
+1-Mar,39783,Eureka Disposable Bags for Sanitaire® Vibra Groomer I® Upright Vac,Not Specified,19,82.43,Regular Air,-94.76,Sally Knutson,West,Corporate,Small Box
+1-Mar,40480,GBC DocuBind 200 Manual Binding Machine,Critical,19,7608.88,Express Air,3049.45,Harold Engle,Atlantic,Home Office,Small Box
+1-Mar,20960,Micro Innovations 104 Keyboard,Low,19,195.96,Regular Air,-104.82,Giulietta Weimer,West,Corporate,Small Box
+1-Mar,48452,U.S. Robotics 56K Internet Call Modem,High,19,1781.11,Regular Air,51.44,Giulietta Weimer,Atlantic,Corporate,Small Box
+1-Mar,15872,Xerox 1893,Not Specified,19,718.41,Regular Air,23.94,Helen Andreada,Prarie,Corporate,Small Box
+1-Mar,8419,Xerox 1936,Critical,19,368.04,Express Air,70.39,Nicole Hansen,Nunavut,Small Business,Small Box
+1-Mar,12773,Xerox 213,Low,19,130.67,Regular Air,-77.18,Greg Guthrie,Atlantic,Corporate,Small Box
+1-Mar,33255,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Critical,19,108.21,Express Air,-50.02,Russell Applegate,Ontario,Home Office,Small Box
+1-Mar,44071,8260,Not Specified,20,1163.123,Regular Air,83.84,Frank Price,Northwest Territories,Corporate,Small Box
+1-Mar,43236,DAX Solid Wood Frames,Not Specified,20,205.33,Regular Air,10.68,Jamie Kunitz,Northwest Territories,Corporate,Medium Box
+1-Mar,38565,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Critical,20,234.09,Express Air,-11.69,Justin Knight,West,Corporate,Small Box
+1-Mar,54274,Honeywell Quietcare HEPA Air Cleaner,Not Specified,20,1583.06,Regular Air,328,Don Jones,Northwest Territories,Corporate,Medium Box
+1-Mar,40801,Xerox 1894,Not Specified,20,129.16,Regular Air,-56.15,Sarah Bern,West,Corporate,Small Box
+1-Mar,52482,Belkin 8 Outlet Surge Protector,Critical,21,848.2,Express Air,163.78,Greg Guthrie,Prarie,Corporate,Small Box
+1-Mar,29319,Canon PC-428 Personal Copier,Low,21,4429.69,Express Air,983.55,Filia McAdams,Atlantic,Small Business,Large Box
+1-Mar,31238,Hoover WindTunnel™ Plus Canister Vacuum,Medium,21,7512.03,Express Air,2017.64,Joseph Airdo,Ontario,Corporate,Small Box
+1-Mar,4642,Project Tote Personal File,Critical,21,309.62,Express Air,-80.2,Shahid Shariari,West,Corporate,Small Box
+1-Mar,15142,Recycled Premium Regency Composition Covers,Not Specified,21,330.22,Regular Air,-51.72,Meg O'Connel,Prarie,Corporate,Small Box
+1-Mar,643,"SAFCO Commercial Wire Shelving, Black",High,21,2781.82,Express Air,-695.26,Monica Federle,Nunavut,Corporate,Large Box
+1-Mar,7169,"Career Cubicle Clock, 8 1/4"", Black",Medium,22,446.72,Regular Air,-39,Lela Donovan,West,Corporate,Small Box
+1-Mar,55138,Tennsco Industrial Shelving,High,22,1132.54,Regular Air,-628.38,Jim Sink,Prarie,Corporate,Large Box
+1-Mar,1059,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Critical,22,127.33,Regular Air,5.3,Sean O'Donnell,Ontario,Corporate,Small Box
+1-Mar,55526,Computer Printout Paper with Letter-Trim Perforations,High,23,445.17,Regular Air,38.11,Guy Thornton,Ontario,Corporate,Small Box
+1-Mar,46119,Durable Pressboard Binders,Critical,23,93.05,Regular Air,15.27,Carlos Soltero,Atlantic,Consumer,Small Box
+1-Mar,41217,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",High,23,1314.64,Express Air,575.38,Nathan Cano,West,Consumer,Small Box
+1-Mar,58913,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",Medium,23,144.55,Regular Air,-60.17,Sarah Bern,Atlantic,Corporate,Small Box
+1-Mar,11332,i500plus,Low,23,1223.3795,Express Air,83.57,Liz Price,West,Corporate,Small Box
+1-Mar,13795,Xerox 188,Not Specified,23,275.16,Express Air,43.35,Muhammed MacIntyre,Northwest Territories,Small Business,Small Box
+1-Mar,33186,8860,Low,24,1350.531,Regular Air,221.18,Don Jones,Northwest Territories,Corporate,Small Box
+1-Mar,14240,Acco Suede Grain Vinyl Round Ring Binder,High,24,68.88,Regular Air,1.31,Ralph Kennedy,West,Corporate,Small Box
+1-Mar,18179,Avery 481,Not Specified,24,73.37,Regular Air,16.1,Liz Price,West,Corporate,Small Box
+1-Mar,22469,Euro Pro Shark Stick Mini Vacuum,High,24,1482.81,Regular Air,-678.63,Jack Lebron,Atlantic,Corporate,Large Box
+1-Mar,25031,Hon 2111 Invitation™ Series Corner Table,High,24,4636.62,Regular Air,-318.45,Sally Knutson,West,Consumer,Large Box
+1-Mar,49223,Staples File Caddy,Medium,24,238.25,Regular Air,-83.55,Chuck Clark,Atlantic,Corporate,Small Box
+1-Mar,56321,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,Critical,24,135.88,Regular Air,-75.39,Shahid Shariari,Atlantic,Consumer,Small Box
+1-Mar,8801,270c,Low,25,2529.396,Express Air,371.21,Thomas Brumley,West,Consumer,Small Box
+1-Mar,11362,LX 677,Low,25,2407.693,Regular Air,424.14,Hilary Holden,Atlantic,Corporate,Small Box
+1-Mar,47846,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",High,25,2674.18,Regular Air,631.99,Hilary Holden,Atlantic,Corporate,Medium Box
+1-Mar,928,DAX Clear Channel Poster Frame,Low,26,390.2,Express Air,45,Anthony O'Donnell,West,Consumer,Small Box
+1-Mar,58055,"Eldon® Expressions™ Wood Desk Accessories, Oak",Critical,26,208.6,Regular Air,-56.45,Julia West,Atlantic,Consumer,Small Box
+1-Mar,41059,"GBC Laser Imprintable Binding System Covers, Desert Sand",Medium,26,363.16,Express Air,3.92,Lycoris Saunders,Ontario,Corporate,Small Box
+1-Mar,34852,Round Ring Binders,Low,26,53.93,Regular Air,-10.95,Rob Dowd,West,Corporate,Small Box
+1-Mar,34177,Self-Adhesive Address Labels for Typewriters by Universal,High,26,172.76,Regular Air,73.18,Toby Braunhardt,Northwest Territories,Corporate,Small Box
+1-Mar,17507,Acco 6 Outlet Guardian Premium Surge Suppressor,Medium,27,399.76,Regular Air,48.13,Lela Donovan,West,Corporate,Small Box
+1-Mar,23264,Avery 474,Critical,27,78.47,Regular Air,17.99,Clay Rozendal,Northwest Territories,Corporate,Small Box
+1-Mar,37862,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Not Specified,27,1603.27,Regular Air,452.49,Guy Thornton,Ontario,Corporate,Small Box
+1-Mar,9923,Eldon® Wave Desk Accessories,High,27,63.71,Regular Air,-96.03,Chad Sievert,Atlantic,Corporate,Small Box
+1-Mar,43111,GBC DocuBind P100 Manual Binding Machine,High,27,4722.83,Regular Air,1749.78,Sally Knutson,West,Consumer,Small Box
+1-Mar,44839,"Linden® 12"" Wall Clock With Oak Frame",Critical,27,899.97,Express Air,-246.3,Julia West,Northwest Territories,Consumer,Small Box
+1-Mar,11782,"Panasonic All Digital Answering System with Caller ID*, KX-TM150B",Low,27,1541.781,Regular Air,14.35,Marina Lichtenstein,West,Corporate,Medium Box
+1-Mar,36805,g520,Medium,28,1546.3965,Express Air,226.72,Shahid Shariari,West,Corporate,Small Box
+1-Mar,11553,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",Medium,28,1350.34,Express Air,-517.17,Justin Knight,West,Corporate,Small Box
+1-Mar,1792,"Tenex Personal Project File with Scoop Front Design, Black",Low,28,370.48,Regular Air,-5.45,Carlos Soltero,Nunavut,Consumer,Small Box
+1-Mar,38690,TI 36X Solar Scientific Calculator,Low,28,697.5,Regular Air,169.89,Shahid Shariari,West,Corporate,Medium Box
+1-Mar,24576,1726 Digital Answering Machine,Not Specified,29,531.063,Regular Air,24.56,Luke Weiss,West,Corporate,Medium Box
+1-Mar,5318,2160i,High,29,5010.7415,Express Air,1196.37,Matt Collins,West,Consumer,Small Box
+1-Mar,39364,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",High,29,2754.93,Regular Air,-1.33,Jamie Kunitz,Northwest Territories,Corporate,Medium Box
+1-Mar,25634,"Fellowes Basic 104-Key Keyboard, Platinum",Not Specified,29,593.32,Regular Air,28.99,Mike Pelletier,Northwest Territories,Corporate,Small Box
+1-Mar,19044,Filing/Storage Totes and Swivel Casters,Low,29,271.33,Regular Air,-191.09,Rob Dowd,West,Corporate,Small Box
+1-Mar,49216,Staples Premium Bright 1-Part Blank Computer Paper,High,29,374.67,Express Air,30.63,Noah Childs,Prarie,Home Office,Small Box
+1-Mar,58407,Xerox 194,High,29,1669.88,Regular Air,548.92,John Grady,Atlantic,Corporate,Small Box
+1-Mar,18471,Xerox 1983,Not Specified,29,185.61,Regular Air,-47.12,Justin Knight,West,Corporate,Small Box
+1-Mar,47714,Avery Durable Poly Binders,Medium,30,176.15,Regular Air,-125.36,Philip Brown,Atlantic,Corporate,Small Box
+1-Mar,4996,Letter Size Cart,Medium,30,4305.79,Regular Air,1020.32,Rob Dowd,West,Corporate,Small Box
+1-Mar,19138,Recycled Eldon Regeneration Jumbo File,Low,30,387,Express Air,-31.45,Carlos Daly,Northwest Territories,Home Office,Small Box
+1-Mar,21350,Southworth 25% Cotton Linen-Finish Paper & Envelopes,Medium,30,278.94,Regular Air,-143.7,Ralph Kennedy,West,Corporate,Small Box
+1-Mar,7169,V8162,Medium,30,1580.6005,Regular Air,303.53,Lela Donovan,West,Corporate,Small Box
+1-Mar,36901,Xerox 1923,Critical,30,201.09,Regular Air,-56.22,Dana Kaydos,West,Corporate,Small Box
+1-Mar,44610,Avery 506,High,31,127.9,Regular Air,54.21,Hunter Lopez,West,Consumer,Small Box
+1-Mar,48230,"Carina 42""Hx23 3/4""W Media Storage Unit",Not Specified,31,2645.8,Regular Air,-684.78,Dana Kaydos,Prarie,Corporate,Large Box
+1-Mar,42754,GBC Imprintable Covers,Critical,31,341.71,Regular Air,32.19,Paul Gonzalez,Atlantic,Corporate,Small Box
+1-Mar,37925,StarTAC 7760,Medium,31,1784.048,Regular Air,394.45,Luke Weiss,West,Corporate,Small Box
+1-Mar,40871,GBC Standard Plastic Binding Systems Combs,Not Specified,32,294.04,Regular Air,-5.53,Joy Smith,Atlantic,Corporate,Small Box
+1-Mar,4261,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,Critical,32,9235.97,Regular Air,2848.17,Lela Donovan,West,Corporate,Large Box
+1-Mar,28130,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Low,32,1381.88,Express Air,598.2,Guy Thornton,Ontario,Corporate,Small Box
+1-Mar,59234,Kensington 7 Outlet MasterPiece Power Center,Low,32,5686.25,Regular Air,2109.21,Michelle Lonsdale,Atlantic,Corporate,Small Box
+1-Mar,12292,"Micro Innovations Micro 3000 Keyboard, Black",Not Specified,32,824.24,Regular Air,-127.23,Ken Lonsdale,Prarie,Consumer,Small Box
+1-Mar,22053,Poly Designer Cover & Back,Critical,32,563.08,Regular Air,112.97,Sean Wendt,Atlantic,Corporate,Small Box
+1-Mar,50533,Space Solutions Commercial Steel Shelving,Not Specified,32,1974.66,Express Air,-929.68,Adam Bellavance,Ontario,Small Business,Large Box
+1-Mar,5511,StarTAC Series,Critical,32,1829.387,Regular Air,482.45,Art Ferguson,Atlantic,Corporate,Small Box
+1-Mar,53025,Xerox 1920,Critical,32,195.57,Regular Air,-132.93,Justin Hirsh,Atlantic,Consumer,Small Box
+1-Mar,53667,Cardinal Poly Pocket Divider Pockets for Ring Binders,Medium,33,112.36,Regular Air,-159.74,Steve Carroll,Prarie,Consumer,Small Box
+1-Mar,33732,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Not Specified,33,332.95,Regular Air,-28.16,Heather Jas,West,Corporate,Small Box
+1-Mar,1539,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Low,33,511.83,Regular Air,-172.88,Carl Ludwig,Nunavut,Corporate,Small Box
+1-Mar,4261,Xerox 1947,Critical,33,195.98,Regular Air,-71.47,Lela Donovan,West,Corporate,Small Box
+1-Mar,31492,Acco Perma® 2700 Stacking Storage Drawers,Critical,34,971.95,Express Air,-21.1,Nicole Hansen,Northwest Territories,Small Business,Small Box
+1-Mar,31872,Ames Color-File® Green Diamond Border X-ray Mailers,Low,34,2833.19,Express Air,1409.87,Vicky Freymann,West,Home Office,Small Box
+1-Mar,46980,Avery 51,Critical,34,216.3,Regular Air,103.16,Monica Federle,Northwest Territories,Corporate,Small Box
+1-Mar,2883,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,Low,34,2154.34,Regular Air,177.66,Rob Haberlin,West,Consumer,Small Box
+1-Mar,44519,Laser & Ink Jet Business Envelopes,High,34,365.77,Regular Air,155.69,Dorothy Wardle,Northwest Territories,Corporate,Small Box
+1-Mar,21378,Lock-Up Easel 'Spel-Binder',Medium,34,937.04,Regular Air,391.6,Jack Lebron,Atlantic,Corporate,Small Box
+1-Mar,9927,Microsoft Natural Multimedia Keyboard,High,34,1608.08,Express Air,-82.16,Grant Carroll,Northwest Territories,Corporate,Small Box
+1-Mar,28995,Southworth 25% Cotton Premium Laser Paper and Envelopes,High,34,667.35,Regular Air,80.92,Hilary Holden,Atlantic,Corporate,Small Box
+1-Mar,51558,Xerox 1898,Not Specified,34,245.4,Regular Air,-87.27,Greg Guthrie,Prarie,Corporate,Small Box
+1-Mar,59750,Xerox 1994,Low,34,223.59,Regular Air,-66.05,Jim Sink,West,Corporate,Small Box
+1-Mar,16967,Xerox Blank Computer Paper,Low,34,676.26,Regular Air,181.98,Brad Norvell,Atlantic,Corporate,Small Box
+1-Mar,2848,Eldon Advantage® Chair Mats for Low to Medium Pile Carpets,Critical,35,1476.39,Express Air,-303.62,Emily Grady,West,Home Office,Medium Box
+1-Mar,30658,Sharp AL-1530CS Digital Copier,Medium,35,17387.65,Regular Air,6907.61,Charles McCrossin,Northwest Territories,Corporate,Large Box
+1-Mar,2373,Avery Printable Repositionable Plastic Tabs,Not Specified,36,317.59,Regular Air,-46.12,Craig Carroll,Ontario,Corporate,Small Box
+1-Mar,47520,GBC VeloBinder Strips,Not Specified,36,277.88,Regular Air,-64.41,Liz Price,Atlantic,Consumer,Small Box
+1-Mar,54753,T39m,Medium,36,4711.244,Regular Air,1380.32,Christopher Schild,Prarie,Corporate,Small Box
+1-Mar,53216,Xerox 227,High,36,228.01,Regular Air,-185.54,Roy Skaria,West,Corporate,Small Box
+1-Mar,30147,12-1/2 Diameter Round Wall Clock,Not Specified,37,740.14,Regular Air,29.73,Cathy Armstrong,West,Consumer,Small Box
+1-Mar,27392,Canon MP41DH Printing Calculator,Low,37,5753.85,Regular Air,2509.52,Frank Price,Northwest Territories,Corporate,Medium Box
+1-Mar,47846,HP Office Paper (20Lb. and 87 Bright),High,37,241.14,Regular Air,-120.08,Hilary Holden,Atlantic,Corporate,Small Box
+1-Mar,24450,Staples 6 Outlet Surge,Critical,37,443.35,Regular Air,-21.73,Kristina Nunn,West,Consumer,Small Box
+1-Mar,40067,3390,Low,38,2157.3085,Regular Air,519.25,Alan Barnes,Northwest Territories,Corporate,Small Box
+1-Mar,36677,Canon Image Class D660 Copier,Low,38,23255.61,Regular Air,-734.33,Jack Lebron,Atlantic,Corporate,Large Box
+1-Mar,2279,Acco Perma® 3000 Stacking Storage Drawers,Medium,39,845.9,Regular Air,52.53,Rob Haberlin,West,Corporate,Small Box
+1-Mar,11269,i1000,Low,39,2083.0525,Express Air,354.96,Harold Engle,Atlantic,Home Office,Small Box
+1-Mar,38272,Staples® General Use 3-Ring Binders,Critical,39,71.04,Regular Air,-20.65,Sarah Foster,West,Corporate,Small Box
+1-Mar,58368,Xerox 1905,High,39,272.07,Regular Air,-206.46,Doug Bickford,Atlantic,Corporate,Small Box
+1-Mar,17344,5190,Critical,40,2405.4575,Regular Air,571.54,Rob Dowd,West,Corporate,Small Box
+1-Mar,6916,Crate-A-Files™,Low,40,436.17,Express Air,-141.27,Andrew Gjertsen,Nunavut,Consumer,Small Box
+1-Mar,32199,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",High,40,196.5,Regular Air,-99.76,Erica Bern,Atlantic,Corporate,Small Box
+1-Mar,55749,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Critical,42,364.8,Regular Air,149.45,Brad Norvell,Prarie,Corporate,Small Box
+1-Mar,40327,Colored Envelopes,Medium,42,152.55,Regular Air,-20.27,Erica Bern,Atlantic,Corporate,Small Box
+1-Mar,13604,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,Not Specified,42,3609.88,Regular Air,-1396.22,Erica Bern,Atlantic,Corporate,Medium Box
+1-Mar,20038,Eldon Image Series Black Desk Accessories,Low,42,173.44,Regular Air,-172.4,Sally Knutson,West,Consumer,Small Box
+1-Mar,645,GBC Binding covers,High,42,557.85,Regular Air,89.45,Harold Engle,Atlantic,Consumer,Small Box
+1-Mar,54947,Hand-Finished Solid Wood Document Frame,Not Specified,42,1498.46,Regular Air,565.37,Peter Buhler,West,Consumer,Small Box
+1-Mar,48931,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Low,42,2149.37,Regular Air,217.87,Charles Sheldon,Prarie,Corporate,Small Box
+1-Mar,5446,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",Low,42,433.68,Regular Air,44.1,Guy Armstrong,Atlantic,Corporate,Small Box
+1-Mar,32871,Microsoft Internet Keyboard,High,42,939.77,Express Air,9.72,Jim Karlsson,West,Small Business,Small Box
+1-Mar,47174,Sharp EL500L Fraction Calculator,Critical,42,642.1,Regular Air,41.56,Maria Bertelson,Ontario,Corporate,Medium Box
+1-Mar,8995,Xerox 217,High,42,266.36,Regular Air,-191.28,Beth Paige,Northwest Territories,Consumer,Small Box
+1-Mar,47462,Avery Poly Binder Pockets,High,43,154.18,Regular Air,-166.92,Susan Vittorini,Northwest Territories,Corporate,Small Box
+1-Mar,9925,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Critical,43,1751.68,Express Air,771.83,Chad Sievert,Atlantic,Corporate,Small Box
+1-Mar,5538,Binding Machine Supplies,Critical,43,1281.28,Regular Air,415.85,Julia Dunbar,Prarie,Consumer,Small Box
+1-Mar,50565,Brown Kraft Recycled Envelopes,High,43,683.46,Regular Air,-138.82,Sylvia Foulston,Northwest Territories,Corporate,Small Box
+1-Mar,3463,Xerox 212,Critical,43,264.75,Regular Air,-212.51,Julia Dunbar,Prarie,Consumer,Small Box
+1-Mar,52964,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Critical,44,5735.79,Regular Air,828.27,Jim Radford,Northwest Territories,Corporate,Large Box
+1-Mar,30243,"Fellowes Smart Surge Ten-Outlet Protector, Platinum",Critical,44,2435.32,Regular Air,650.56,Hilary Holden,Atlantic,Corporate,Small Box
+1-Mar,53410,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",Critical,44,642.8,Regular Air,-253.11,Christopher Schild,Prarie,Corporate,Small Box
+1-Mar,26016,KF 788,High,44,1642.642,Express Air,314.84,Ken Lonsdale,Prarie,Consumer,Small Box
+1-Mar,31297,Staples Colored Bar Computer Paper,Low,44,1579.56,Regular Air,699.64,Mike Kennedy,West,Corporate,Small Box
+1-Mar,53990,T18,Not Specified,44,4263.9315,Regular Air,1411.03,Carlos Daly,Northwest Territories,Corporate,Small Box
+1-Mar,28898,Xerox 196,Low,44,246,Regular Air,-207.36,Mark Cousins,West,Corporate,Small Box
+1-Mar,59585,"AT&T Black Trimline Phone, Model 210",High,45,712.04,Regular Air,-110.93,Edward Hooks,Atlantic,Consumer,Small Box
+1-Mar,12355,"Hoover Replacement Belts For Soft Guard™ & Commercial Ltweight Upright Vacs, 2/Pk",Not Specified,45,168.66,Regular Air,-167.06,Ken Heidel,Atlantic,Corporate,Small Box
+1-Mar,41059,Polycom VoiceStation 100,Medium,45,12571.63,Regular Air,5455.96,Lycoris Saunders,Ontario,Corporate,Medium Box
+1-Mar,49761,TI 36X Solar Scientific Calculator,Not Specified,45,1090.6,Regular Air,300.91,Lisa DeCherney,West,Corporate,Medium Box
+1-Mar,48167,Xerox 224,Critical,45,282.98,Regular Air,-237.47,Dana Kaydos,Prarie,Corporate,Small Box
+1-Mar,11782,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Low,46,247.21,Regular Air,-63.72,Marina Lichtenstein,West,Corporate,Small Box
+1-Mar,50949,StarTAC 6500,Medium,46,4804.0385,Regular Air,1077.92,Guy Thornton,Ontario,Corporate,Small Box
+1-Mar,48614,T28 WORLD,Critical,46,7965.9025,Regular Air,2311.96,Nathan Mautz,Prarie,Corporate,Small Box
+1-Mar,41927,Xerox 1885,Not Specified,46,2332.23,Express Air,1085.93,Matt Abelman,West,Home Office,Small Box
+1-Mar,322,Xerox 1997,Critical,46,281,Regular Air,-291.59,Giulietta Weimer,West,Corporate,Small Box
+1-Mar,48199,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Not Specified,47,672.46,Regular Air,279.74,Erica Bern,Atlantic,Corporate,Small Box
+1-Mar,41412,3M Organizer Strips,Not Specified,47,263.81,Regular Air,-237.54,Shahid Shariari,West,Consumer,Small Box
+1-Mar,26978,Eldon Jumbo ProFile™ Portable File Boxes Graphite/Black,Medium,47,695.99,Express Air,-157.44,Seth Vernon,West,Home Office,Small Box
+1-Mar,57344,SouthWestern Bell FA970 Digital Answering Machine with Time/Day Stamp,High,47,1060.0605,Regular Air,-71.03,Sylvia Foulston,Northwest Territories,Corporate,Medium Box
+1-Mar,10692,2160i,Low,48,8101.9875,Regular Air,2369.84,Rob Haberlin,West,Corporate,Small Box
+1-Mar,44519,Newell® 3-Hole Punched Plastic Slotted Magazine Holders for Binders,High,48,224.58,Regular Air,-144.76,Dorothy Wardle,Northwest Territories,Corporate,Small Box
+1-Mar,18144,Xerox 1971,Critical,48,207.08,Regular Air,-131.82,Dorothy Wardle,Northwest Territories,Corporate,Small Box
+1-Mar,16161,6162i,Medium,49,2692.6895,Regular Air,768.32,Kristina Nunn,West,Consumer,Small Box
+1-Mar,50914,A1228,Critical,49,8551.544,Regular Air,2763.13,Carlos Daly,Northwest Territories,Corporate,Small Box
+1-Mar,49029,CF 888,High,49,8223.07,Express Air,2549.4,Jim Sink,Atlantic,Corporate,Small Box
+1-Mar,49441,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Medium,49,1981.26,Express Air,100.8,Mary O'Rourke,Prarie,Home Office,Medium Box
+1-Mar,3361,Xerox 1927,Not Specified,49,213.71,Regular Air,-208.02,Michael Granlund,Atlantic,Corporate,Small Box
+1-Mar,28836,688,High,50,8221.2935,Regular Air,2342.21,Erica Bern,Atlantic,Corporate,Small Box
+1-Mar,7430,"#10 White Business Envelopes,4 1/8 x 9 1/2",Medium,50,751.77,Regular Air,353.2,Barry Weirich,Nunavut,Corporate,Small Box
+1-Mar,29287,Binder Posts,High,50,281.39,Regular Air,-106.4,Edward Hooks,Northwest Territories,Consumer,Small Box
+1-Mar,12199,"Dual Level, Single-Width Filing Carts",Low,50,8289.51,Regular Air,3051.62,Justin Knight,West,Corporate,Small Box
+1-Mar,9892,"Tyvek ® Top-Opening Peel & Seel Envelopes, Plain White",Medium,50,1406.64,Regular Air,424.36,Kelly Williams,West,Corporate,Small Box

@@ -1,0 +1,13 @@
+Use the Salesstore.csv & Product.csv datasets to generate output dataset using SQL;
+
+1. Create an output with following fields
+    a. Order_Month
+    b. Product_Name
+    c. Product_Category
+    d. Sum of Order_Qty
+    e. Sum of Sales
+2. Add Cumulative Order_Qty and Sales from Jan 1 2024 till date
+3. Add Cumulative Order_Qty and Sales for corresponding Customer_Segment for the same month
+4. Add Marketshare percentage based on Order Quantity for same Customer_Segment of the order for the same month\
+
+Solution: sql_eval.sql

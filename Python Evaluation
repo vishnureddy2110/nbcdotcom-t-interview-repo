@@ -1,0 +1,8 @@
+Create python script with below 3 functions and main to execute them sequentially;
+
+1. Fetch data from public API data source (https://softwium.com/api/books)
+2. Flatten JSON from above data source into CSV format
+3. Load CSV data above to Relational Database of choice or Snowflake
+
+Solution: Please refer to python_evaluation_api_loader.ipynb notebook
+
